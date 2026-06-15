@@ -1,0 +1,5 @@
+algae_model.pkl
+__pycache__/
+*.pdf
+backup_v1.txt
+backup_v2.txt

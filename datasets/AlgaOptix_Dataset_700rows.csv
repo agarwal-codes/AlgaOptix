@@ -1,0 +1,701 @@
+Species,Medium,Temperature_C,Light_umol_m2_s,Nitrate_mg_L,Phosphate_mg_L,CO2_pct,pH,Biomass_g_L,Lipid_pct,Biofuel_mL_per_g,Energy_Output_MJ_per_kg,Source,Data_Type
+Chlorella vulgaris,Modified BG-11,33.4,203,1470.6,40.2,0.04,8.1,0.05,21.2,0.2048,21.76,Physics-constrained model (calibrated to species optima from literature),Modelled
+Dunaliella salina,Modified f/2,25.3,674,480.5,70.6,3.0,8.0,0.43,18.0,0.1739,21.12,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlamydomonas reinhardtii,TAP,17.0,323,1728.9,145.2,10.0,6.3,0.57,12.3,0.1188,19.97,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,ORP Wastewater,12.5,1078,62.9,49.7,15.0,5.6,0.08,25.1,0.2424,22.55,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Bold's Basal Medium,21.9,843,903.9,37.8,0.04,5.0,0.05,15.4,0.1487,20.6,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella pyrenoidosa,Modified BG-11,13.2,588,1918.9,131.2,0.04,5.1,0.05,17.6,0.17,21.04,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,Walne Medium,28.2,255,969.0,47.7,10.0,7.9,0.75,22.7,0.2193,22.06,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Synthetic Medium,22.7,570,1735.0,199.8,2.0,9.5,0.15,14.3,0.1381,20.37,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,ORP Wastewater,16.5,238,274.4,188.9,10.0,6.1,0.22,15.7,0.1516,20.66,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus sp.,BG-11,8.7,193,1514.5,198.2,2.0,7.2,0.18,14.3,0.1381,20.37,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetradesmus obliquus,BG-11,10.0,29,250.3,32.9,2.0,5.9,0.05,21.3,0.2057,21.78,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,BG-11,14.0,764,1110.2,6.2,0.04,5.8,0.05,21.1,0.2038,21.74,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,Modified BG-11,27.1,458,160.8,7.9,2.0,5.4,0.05,22.0,0.2125,21.92,Physics-constrained model (calibrated to species optima from literature),Modelled
+Dunaliella salina,Modified f/2,26.0,300,150.0,20.0,0.04,7.5,0.65,16.1,0.1555,20.74,Frontiers Enrg Res 2022 10.3389/fenrg.2022.912904,Real (measured)
+Phaeodactylum tricornutum,f/2 Medium,22.6,399,384.2,14.2,10.0,9.0,0.21,24.3,0.2347,22.38,Physics-constrained model (calibrated to species optima from literature),Modelled
+Monoraphidium braunii,Synthetic Medium,10.6,220,634.5,27.7,0.04,6.4,0.05,22.6,0.2183,22.04,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis subcordiformis,f/2 Medium,31.9,194,1248.0,85.2,5.0,9.7,0.05,20.0,0.1932,21.52,Physics-constrained model (calibrated to species optima from literature),Modelled
+Dunaliella salina,Modified f/2,28.1,76,1276.2,172.4,1.0,7.0,0.08,17.4,0.1681,21.0,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chromochloris zofingiensis,BG-11 N-stress,30.3,114,918.8,77.5,1.0,4.6,0.05,47.7,0.4607,27.09,Physics-constrained model (calibrated to species optima from literature),Modelled
+Dunaliella salina,Modified f/2,18.0,52,178.6,9.7,0.04,6.8,0.05,18.2,0.1758,21.16,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus sp.,BG-11,19.3,772,544.3,179.0,0.04,6.3,0.07,15.8,0.1526,20.68,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,Bold's Basal,13.8,475,1885.4,147.4,3.26,9.2,0.08,20.5,0.198,21.62,Physics-constrained model (calibrated to species optima from literature),Modelled
+Neochloris oleoabundans,BG-11,25.3,181,570.2,86.0,4.19,6.5,0.47,46.7,0.4511,26.89,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Synthetic Medium,11.2,34,957.0,99.9,15.0,7.8,0.06,15.9,0.1536,20.7,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,Walne Medium,14.4,115,1434.3,26.4,0.04,7.0,0.05,28.9,0.2791,23.31,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,BG-11,13.4,667,1451.0,120.7,15.0,6.4,0.43,22.2,0.2144,21.96,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,33.5,503,4923.0,136.2,0.04,10.5,0.06,8.3,0.0802,19.17,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,Bold's Basal,25.0,250,300.0,50.0,2.0,7.4,1.3,22.9,0.2212,22.1,PMC12844148 10.3390/w16162333,Real (measured)
+Nannochloropsis sp.,f/2 Medium,27.3,763,1240.8,90.7,0.04,6.4,0.08,23.0,0.2222,22.12,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 Medium,27.7,646,8.5,159.0,15.0,7.3,0.17,34.3,0.3313,24.39,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,ORP Wastewater,17.9,1111,54.6,111.9,15.0,5.3,0.09,26.1,0.2521,22.75,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ankistrodesmus falcatus,BG-11 N-stress,8.8,432,886.4,12.3,1.0,6.4,0.05,47.3,0.4569,27.01,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Modified BG-11,33.9,556,499.4,48.9,5.0,8.7,0.21,23.4,0.226,22.2,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,TAP,11.8,997,1265.2,152.1,0.04,9.1,0.05,17.5,0.169,21.02,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,BG-11,34.5,1088,1731.6,148.4,2.0,5.8,0.38,19.8,0.1913,21.48,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis subcordiformis,f/2 Medium,20.6,242,274.8,25.2,0.04,8.2,0.05,21.2,0.2048,21.76,Physics-constrained model (calibrated to species optima from literature),Modelled
+Neochloris oleoabundans,BG-11 N-stress,31.3,240,1129.8,53.0,8.0,6.4,0.46,45.2,0.4366,26.59,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,31.5,120,3740.8,72.3,10.0,8.4,0.43,7.9,0.0763,19.09,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chaetoceros muelleri,f/2 Medium,21.3,358,4050.6,136.9,3.0,9.0,0.22,39.1,0.3777,25.36,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,ORP Wastewater,13.6,166,1855.5,80.7,0.04,7.0,0.05,18.1,0.1748,21.14,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,BG-11,31.7,30,559.7,141.2,0.04,9.5,0.05,20.9,0.2019,21.7,Physics-constrained model (calibrated to species optima from literature),Modelled
+Closterium sp.,Bold's Basal,30.0,3000,300.0,55.0,9.0,7.0,0.55,15.8,0.1526,20.68,Baweja 2025 RSOS 10.1098/rsos.241336,Real (measured)
+Nannochloropsis sp.,f/2 Medium,18.1,413,489.3,151.9,10.0,9.0,0.05,23.1,0.2231,22.14,Physics-constrained model (calibrated to species optima from literature),Modelled
+Isochrysis galbana,f/2 Medium,23.3,471,1202.7,181.2,1.0,7.1,0.38,23.0,0.2222,22.12,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ettlia sp. YC001,BG-11,13.4,317,6.8,95.8,0.04,5.9,0.05,22.3,0.2154,21.98,Physics-constrained model (calibrated to species optima from literature),Modelled
+Phaeodactylum tricornutum,f/2 Medium,25.5,387,259.1,140.5,5.0,10.1,0.05,27.0,0.2608,22.93,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetradesmus obliquus,BG-11 N-stress,31.0,293,1500.4,29.1,2.0,4.6,0.05,19.1,0.1845,21.34,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,Bold's Basal,17.1,58,991.7,26.5,15.0,8.6,0.05,21.1,0.2038,21.74,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,28.0,120,2500.0,150.0,0.04,8.8,2.1,6.5,0.0628,18.81,PMC10674991 Light study 2023,Real (measured)
+Chlorella vulgaris,Bold's Basal,25.7,570,1047.7,153.3,0.04,7.1,0.19,16.4,0.1584,20.8,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,Bold's Basal,32.6,981,89.5,90.1,10.0,5.6,0.07,27.5,0.2656,23.03,Physics-constrained model (calibrated to species optima from literature),Modelled
+Isochrysis galbana,f/2 Medium,24.0,200,144.0,25.0,0.04,7.8,0.85,22.6,0.2183,22.04,Maltsev 2023 MCF 10.1186/s12934-023-02244-6,Real (measured)
+Ankistrodesmus falcatus,BG-11,30.1,403,4961.3,151.4,15.0,8.2,0.44,44.1,0.426,26.36,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,BG-11,25.0,100,300.0,45.0,5.0,7.1,1.2,14.2,0.1372,20.35,de Jesus 2023 FBioe 10.3389/fbioe.2023.1149762,Real (measured)
+Botryococcus braunii,Bold's Basal,20.0,3000,300.0,55.0,9.0,7.0,0.38,22.1,0.2135,21.94,Baweja 2025 RSOS 10.1098/rsos.241336,Real (measured)
+Nannochloris sp.,f/2 Medium,10.0,229,1161.2,136.4,2.0,7.8,0.05,19.6,0.1893,21.44,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chaetoceros muelleri,f/2 Medium,18.5,239,1938.2,164.4,10.0,5.9,0.05,41.9,0.4047,25.92,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,Modified BG-11,39.3,830,1701.3,69.4,3.0,7.3,1.06,19.7,0.1903,21.46,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,Walne Medium,19.5,869,886.1,58.7,5.0,7.2,0.07,22.9,0.2212,22.1,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetradesmus obliquus,BG-11,16.4,175,379.1,96.9,3.0,8.3,0.13,18.6,0.1797,21.24,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,BG-11,35.0,300,670.0,80.0,20.0,7.2,2.45,23.1,0.2231,22.14,Montoya-Vallejo 2023 10.3389/fbioe.2023.1149762,Real (measured)
+Scenedesmus sp.,BG-11,22.2,274,126.0,75.0,8.0,5.7,0.12,19.3,0.1864,21.38,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,27.8,96,2593.9,21.8,0.04,10.5,0.05,8.3,0.0802,19.17,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,35.0,245,2500.0,150.0,10.0,9.3,0.59,21.4,0.2067,21.8,PMC10674991 Light study 2023,Real (measured)
+Tetradesmus obliquus,BG-11,10.2,256,1312.7,63.1,2.0,9.1,0.05,18.1,0.1748,21.14,Physics-constrained model (calibrated to species optima from literature),Modelled
+Neochloris oleoabundans,BG-11 N-stress,26.6,674,174.5,167.6,2.0,7.1,0.55,51.2,0.4945,27.79,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella pyrenoidosa,BG-11,14.5,909,1762.7,57.1,3.06,7.1,0.06,17.1,0.1652,20.94,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,Bold's Basal,20.0,250,300.0,50.0,2.0,7.3,1.05,18.4,0.1777,21.2,PMC12844148 10.3390/w16162333,Real (measured)
+Chlorella vulgaris,Wastewater,31.9,295,1063.9,122.0,10.0,6.7,0.99,18.9,0.1826,21.3,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetradesmus obliquus,BG-11 N-stress,28.9,797,1189.3,61.3,2.0,8.2,0.31,19.4,0.1874,21.4,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,Bold's Basal,17.0,90,953.2,151.2,4.31,6.6,0.15,20.6,0.199,21.64,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,BG-11,20.0,300,247.0,35.0,0.04,7.0,1.2,15.1,0.1459,20.54,Converti 2009 CEP 10.1016/j.cep.2009.03.006,Real (measured)
+Nannochloropsis sp.,f/2 N-stress,26.9,571,1081.1,82.4,1.0,8.2,0.3,22.2,0.2144,21.96,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chaetoceros muelleri,f/2 Medium,25.0,135,5000.0,30.0,0.04,8.0,0.72,39.0,0.3767,25.34,Tan 2023 ICP 10.1016/j.indcrop.2023.116458,Real (measured)
+Spirulina platensis,Zarrouk's Medium,33.9,662,2136.8,180.4,8.0,10.3,0.88,8.1,0.0782,19.13,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorococcum sp.,BG-11,23.6,328,872.6,65.8,3.0,4.5,0.05,22.6,0.2183,22.04,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chaetoceros muelleri,f/2 Medium,8.0,44,4954.4,156.9,0.04,5.6,0.05,40.3,0.3893,25.6,Physics-constrained model (calibrated to species optima from literature),Modelled
+Phaeodactylum tricornutum,f/2 Medium,8.6,255,1912.6,57.2,10.0,6.9,0.13,21.5,0.2077,21.82,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,BG-11,25.9,229,1713.9,152.2,15.0,6.8,1.01,17.7,0.171,21.06,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,ORP Wastewater,26.5,656,1065.6,96.3,0.04,6.0,0.05,14.8,0.143,20.47,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella pyrenoidosa,BG-11,30.5,689,1518.1,196.7,5.0,7.1,1.24,17.7,0.171,21.06,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,Walne Medium,35.4,475,555.0,36.6,10.0,8.8,0.57,24.1,0.2328,22.34,Physics-constrained model (calibrated to species optima from literature),Modelled
+Parachlorella kessleri,BG-11,29.0,143,725.0,143.5,8.0,6.9,0.51,20.6,0.199,21.64,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,f/2 Medium,12.5,265,1446.7,16.9,0.04,9.7,0.05,29.1,0.2811,23.35,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,BG-11,28.6,164,1015.1,139.5,2.0,8.6,0.1,19.1,0.1845,21.34,Physics-constrained model (calibrated to species optima from literature),Modelled
+Parachlorella kessleri,BG-11,25.4,309,1759.5,26.1,3.0,5.1,0.06,20.3,0.1961,21.58,Physics-constrained model (calibrated to species optima from literature),Modelled
+Botryococcus braunii,Bold's Basal,25.0,3000,300.0,55.0,9.0,7.0,0.55,24.5,0.2366,22.42,Baweja 2025 RSOS 10.1098/rsos.241336,Real (measured)
+Scenedesmus obliquus,Synthetic Medium,14.9,474,1559.6,50.6,10.0,5.1,0.05,13.8,0.1333,20.27,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,BG-11,30.0,100,300.0,45.0,5.0,7.0,1.2,16.5,0.1594,20.82,de Jesus 2023 FBioe 10.3389/fbioe.2023.1149762,Real (measured)
+Tetraselmis subcordiformis,f/2 Medium,25.0,200,200.0,30.0,2.0,7.5,0.85,16.2,0.1565,20.76,Ji 2021 Molecules PMC7918059,Real (measured)
+Phaeodactylum tricornutum,f/2 Medium,8.3,189,309.9,45.2,8.0,6.4,0.05,24.3,0.2347,22.38,Physics-constrained model (calibrated to species optima from literature),Modelled
+Botryococcus braunii,BG-11,9.6,1631,252.1,41.2,3.0,5.0,0.05,29.1,0.2811,23.35,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,Walne Medium,25.0,150,150.0,20.0,0.04,8.0,0.9,22.7,0.2193,22.06,Converti 2009 CEP 10.1016/j.cep.2009.03.006,Real (measured)
+Chromochloris zofingiensis,BG-11 N-stress,21.9,729,476.4,60.7,15.0,4.7,0.07,47.2,0.4559,26.99,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis subcordiformis,f/2 N-stress,25.0,200,25.0,30.0,2.0,7.5,0.52,28.4,0.2743,23.21,Ji 2021 Molecules PMC7918059,Real (measured)
+Chaetoceros muelleri,f/2 Medium,25.8,287,4271.7,84.0,5.0,5.5,0.05,40.5,0.3912,25.64,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ettlia sp. YC001,BG-11,26.1,1495,699.0,58.5,2.0,8.1,4.1,14.7,0.142,20.45,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,Walne Medium,30.8,683,103.8,2.2,5.0,8.2,0.16,27.6,0.2666,23.05,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella pyrenoidosa,Modified BG-11,22.1,397,1219.4,117.0,0.04,9.2,0.05,17.5,0.169,21.02,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,BG-11,29.6,1037,1773.4,184.4,10.0,8.6,0.41,19.0,0.1835,21.32,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,35.6,456,3381.7,67.6,0.04,7.6,0.05,8.3,0.0802,19.17,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,Modified BG-11,32.9,920,635.8,157.9,0.04,6.8,0.23,19.7,0.1903,21.46,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloris sp.,f/2 Medium,14.4,431,244.8,106.4,0.04,7.8,0.05,23.5,0.227,22.22,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Synthetic Medium,26.6,372,1520.5,47.7,13.59,8.8,0.41,15.5,0.1497,20.62,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlamydomonas reinhardtii,TAP,30.0,3000,300.0,55.0,9.0,7.0,1.05,15.3,0.1478,20.58,Baweja 2025 RSOS 10.1098/rsos.241336,Real (measured)
+Chlamydomonas reinhardtii,TAP,30.2,72,393.3,2.8,15.0,5.3,0.05,17.3,0.1671,20.98,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Wastewater,25.0,180,110.0,18.0,2.0,7.6,1.15,14.9,0.1439,20.49,PMC12844148 Wastewater 2024,Real (measured)
+Chlorella vulgaris,BG-11,19.9,123,240.4,192.5,2.0,8.1,0.14,20.4,0.197,21.6,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,Wastewater,19.7,551,125.8,140.2,3.0,6.1,0.05,23.7,0.2289,22.26,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 Medium,35.0,200,200.0,25.0,15.0,7.5,2.27,28.4,0.2743,23.21,Khatoon 2020 JOUC 10.1007/s11802-020-4302-y,Real (measured)
+Nannochloropsis oculata,f/2 Medium,25.8,240,1241.1,148.5,0.04,5.8,0.05,31.1,0.3004,23.75,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis sp.,f/2 Medium,26.8,864,1750.3,34.8,0.04,5.2,0.05,20.4,0.197,21.6,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Modified BG-11,25.0,300,200.0,35.0,3.0,7.0,1.3,16.5,0.1594,20.82,Eze 2026 DIB 10.1016/j.dib.2026.111915,Real (measured)
+Tetradesmus obliquus,BG-11,25.0,200,247.0,35.0,2.0,7.0,1.15,16.8,0.1623,20.88,OCL review 2021 10.1051/ocl/2021048,Real (measured)
+Ankistrodesmus falcatus,BG-11,14.3,378,3785.8,187.4,2.0,7.4,0.55,41.6,0.4018,25.86,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Bold's Basal Medium,21.9,191,374.8,93.8,0.04,9.5,0.05,16.2,0.1565,20.76,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlamydomonas reinhardtii,TAP,31.1,482,185.4,119.3,0.04,8.6,0.05,19.3,0.1864,21.38,Physics-constrained model (calibrated to species optima from literature),Modelled
+Isochrysis galbana,f/2 Medium,30.7,498,408.1,118.1,1.0,9.2,0.1,26.5,0.256,22.83,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Synthetic Medium,27.8,83,896.4,83.0,5.0,6.1,0.13,14.7,0.142,20.45,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Wastewater,24.6,767,579.9,147.5,5.0,8.9,0.21,18.9,0.1826,21.3,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,36.6,618,2365.5,194.3,2.0,9.1,1.67,8.8,0.085,19.27,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,BG-11,32.8,614,1422.2,143.3,3.0,5.7,0.13,23.0,0.2222,22.12,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella pyrenoidosa,Modified BG-11,14.5,261,1488.5,6.6,0.04,6.4,0.05,19.1,0.1845,21.34,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorococcum sp.,BG-11,20.9,331,400.4,179.4,0.04,8.9,0.05,24.6,0.2376,22.44,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus sp.,BG-11,14.8,450,307.8,71.7,5.0,8.8,0.13,17.0,0.1642,20.92,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ankistrodesmus falcatus,BG-11 N-stress,25.0,120,41.0,37.0,0.04,7.0,0.75,52.3,0.5052,28.01,Maltsev 2023 MCF 10.1186/s12934-023-02244-6,Real (measured)
+Chromochloris zofingiensis,BG-11,13.8,728,1940.4,92.9,15.0,5.7,0.3,47.3,0.4569,27.01,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,27.2,22,317.5,23.7,1.47,8.5,0.05,10.9,0.1053,19.69,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloris sp.,f/2 Medium,18.8,86,599.2,67.0,10.0,8.8,0.09,22.3,0.2154,21.98,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 Medium,40.0,200,200.0,25.0,5.0,7.5,0.28,17.2,0.1661,20.96,Khatoon 2020 JOUC 10.1007/s11802-020-4302-y,Real (measured)
+Chlorella vulgaris,Bold's Basal,22.4,458,1853.9,129.5,12.35,6.8,1.39,16.9,0.1632,20.9,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorococcum sp.,BG-11,8.2,452,1409.0,72.4,1.0,5.3,0.05,23.5,0.227,22.22,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,Bold's Basal,30.0,250,300.0,50.0,2.0,7.5,1.1,20.1,0.1941,21.54,PMC12844148 10.3390/w16162333,Real (measured)
+Tetraselmis sp.,f/2 Medium,21.8,851,498.3,51.4,3.0,9.3,0.11,19.6,0.1893,21.44,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chaetoceros muelleri,f/2 Medium,12.9,359,2943.4,2.5,3.0,6.1,0.05,40.8,0.3941,25.7,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,ORP Wastewater,31.0,1100,110.0,14.0,0.04,8.1,1.72,19.3,0.1864,21.38,Supriyanto 2018 ORP 10.1016/j.egyr.2018.01.004,Real (measured)
+Chlorella pyrenoidosa,Modified BG-11,16.1,1129,1776.5,155.9,1.0,7.0,0.17,17.5,0.169,21.02,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis subcordiformis,f/2 Medium,28.6,867,327.8,160.3,0.04,8.8,0.05,20.3,0.1961,21.58,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,f/2 Medium,19.2,72,1234.2,104.4,15.0,8.7,0.18,30.3,0.2927,23.59,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,TAP,22.8,72,312.8,137.2,11.18,9.4,0.05,19.6,0.1893,21.44,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chaetoceros muelleri,f/2 Medium,25.0,200,5000.0,30.0,0.04,8.0,0.85,35.2,0.34,24.58,Tan 2023 ICP 10.1016/j.indcrop.2023.116458,Real (measured)
+Scenedesmus obliquus,ORP Wastewater,29.0,900,130.0,16.0,0.04,7.9,1.32,14.2,0.1372,20.35,Supriyanto 2018 ORP 10.1016/j.egyr.2018.01.004,Real (measured)
+Nannochloropsis sp.,f/2 N-stress,23.2,49,182.8,146.9,4.85,8.0,0.05,26.4,0.255,22.81,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetradesmus obliquus,BG-11,9.2,416,1630.5,146.5,10.0,6.7,0.38,17.1,0.1652,20.94,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ankistrodesmus falcatus,BG-11 N-stress,10.3,382,1254.6,175.5,5.0,4.9,0.05,44.7,0.4318,26.48,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Synthetic Medium,10.4,762,615.1,124.5,11.41,5.6,0.07,15.8,0.1526,20.68,Physics-constrained model (calibrated to species optima from literature),Modelled
+Isochrysis galbana,f/2 Medium,18.6,80,1804.6,45.9,2.0,9.8,0.05,22.9,0.2212,22.1,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella pyrenoidosa,Modified BG-11,33.7,709,1471.6,60.6,15.0,8.3,0.48,19.1,0.1845,21.34,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 N-stress,37.0,863,255.7,3.2,2.0,9.2,0.06,25.4,0.2453,22.61,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Modified BG-11,25.0,80,247.0,37.0,0.04,7.0,0.88,13.8,0.1333,20.27,MedCrave Kua 2017 medium screening,Real (measured)
+Nannochloropsis sp.,Walne Medium,28.5,487,1403.6,11.4,15.0,7.9,0.74,21.6,0.2086,21.84,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,Walne Medium,29.7,515,11.9,8.1,8.0,8.3,0.06,38.2,0.369,25.18,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis sp.,f/2 Medium,22.0,806,205.5,64.5,15.0,9.7,0.05,22.5,0.2173,22.02,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,Walne Medium,22.3,383,558.1,68.0,10.0,9.5,0.24,28.6,0.2762,23.25,Physics-constrained model (calibrated to species optima from literature),Modelled
+Botryococcus braunii,Bold's Basal,30.0,3000,300.0,55.0,9.0,7.0,0.7,21.0,0.2028,21.72,Baweja 2025 RSOS 10.1098/rsos.241336,Real (measured)
+Chlorella pyrenoidosa,BG-11,31.5,1055,1803.8,196.9,1.0,4.9,0.05,18.4,0.1777,21.2,Physics-constrained model (calibrated to species optima from literature),Modelled
+Botryococcus braunii,Bold's Basal,18.1,1055,1796.7,199.0,2.0,5.4,0.05,26.1,0.2521,22.75,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,BG-11,25.0,200,300.0,45.0,5.0,7.0,1.55,18.2,0.1758,21.16,de Jesus 2023 FBioe 10.3389/fbioe.2023.1149762,Real (measured)
+Chlorella sorokiniana,BG-11,17.1,730,1356.2,7.9,0.04,9.1,0.05,19.9,0.1922,21.5,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Synthetic Medium,18.7,566,950.5,197.4,1.44,7.1,0.71,15.1,0.1459,20.54,Physics-constrained model (calibrated to species optima from literature),Modelled
+Botryococcus braunii,BG-11,26.6,1323,1785.6,161.5,0.04,7.3,0.06,26.7,0.2579,22.87,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,Bold's Basal,9.7,74,1165.5,6.3,0.04,7.9,0.05,21.4,0.2067,21.8,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis subcordiformis,f/2 Medium,30.6,266,1359.9,12.7,14.34,8.7,0.16,20.5,0.198,21.62,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Wastewater,24.7,870,82.1,43.2,2.0,9.0,0.15,20.3,0.1961,21.58,Physics-constrained model (calibrated to species optima from literature),Modelled
+Isochrysis galbana,f/2 Medium,29.7,387,1544.5,16.5,3.0,9.1,0.09,24.1,0.2328,22.34,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,BG-11,26.2,66,576.8,29.7,15.0,7.0,0.14,22.0,0.2125,21.92,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis subcordiformis,f/2 Medium,29.4,613,84.7,7.6,10.0,6.4,0.1,26.4,0.255,22.81,Physics-constrained model (calibrated to species optima from literature),Modelled
+Isochrysis galbana,f/2 Medium,29.7,347,653.2,49.8,15.0,7.1,0.37,23.9,0.2309,22.3,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,Bold's Basal,34.1,908,1597.9,55.3,15.0,7.6,0.81,23.1,0.2231,22.14,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus sp.,BG-11,28.8,847,1677.1,30.1,2.0,5.5,0.12,16.4,0.1584,20.8,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chromochloris zofingiensis,BG-11,22.4,145,866.8,58.2,1.82,7.1,0.38,45.5,0.4395,26.65,Physics-constrained model (calibrated to species optima from literature),Modelled
+Isochrysis galbana,f/2 Medium,10.9,287,786.7,169.7,0.04,7.5,0.05,23.3,0.2251,22.18,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 Medium,32.3,334,1464.3,65.1,3.0,7.0,0.78,22.5,0.2173,22.02,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,Bold's Basal,30.5,622,1231.4,84.6,15.0,5.7,0.16,21.7,0.2096,21.86,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ettlia sp. YC001,BG-11,25.8,1285,802.9,134.4,15.0,6.9,20.83,15.0,0.1449,20.52,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,Modified BG-11,31.4,458,76.9,84.8,0.04,7.5,0.08,25.9,0.2502,22.71,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,f/2 Medium,20.9,623,109.5,78.0,0.04,9.2,0.05,32.1,0.3101,23.95,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chromochloris zofingiensis,BG-11 N-stress,12.9,491,122.3,148.8,0.04,5.0,0.05,52.7,0.509,28.09,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chaetoceros muelleri,f/2 Medium,29.6,534,3049.1,36.1,8.17,9.3,0.1,42.6,0.4115,26.06,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,23.1,623,492.2,130.4,11.75,9.8,0.24,9.2,0.0889,19.35,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,Walne Medium,10.1,213,659.6,151.4,1.0,8.2,0.17,29.1,0.2811,23.35,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlamydomonas reinhardtii,Synthetic Medium,29.9,391,1241.7,140.0,12.89,5.1,0.14,15.2,0.1468,20.56,Physics-constrained model (calibrated to species optima from literature),Modelled
+Parachlorella kessleri,BG-11,25.0,120,247.0,35.0,0.04,7.0,0.96,19.8,0.1913,21.48,PMC9655907 ARTP mutant 2022,Real (measured)
+Chlorella vulgaris,BG-11,25.5,923,1271.3,111.6,0.04,6.1,0.11,17.6,0.17,21.04,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chromochloris zofingiensis,BG-11,24.0,585,1058.3,68.2,5.0,7.4,1.13,45.4,0.4385,26.63,Physics-constrained model (calibrated to species optima from literature),Modelled
+Isochrysis galbana,f/2 Medium,13.2,240,1479.7,125.1,0.04,9.8,0.05,22.5,0.2173,22.02,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,39.2,249,3056.7,122.5,0.04,7.3,0.05,9.1,0.0879,19.33,Physics-constrained model (calibrated to species optima from literature),Modelled
+Isochrysis galbana,f/2 N-stress,24.0,200,72.0,25.0,0.04,7.8,0.71,28.5,0.2753,23.23,Maltsev 2023 MCF 10.1186/s12934-023-02244-6,Real (measured)
+Chlorella vulgaris,BG-11,30.0,500,300.0,45.0,5.0,7.0,2.27,26.8,0.2589,22.89,de Jesus 2023 FBioe 10.3389/fbioe.2023.1149762,Real (measured)
+Monoraphidium braunii,Wastewater,25.0,100,110.0,18.0,0.04,7.5,0.62,22.4,0.2164,22.0,PMC10017629 wastewater coupling 2023,Real (measured)
+Ankistrodesmus falcatus,BG-11,14.3,120,1132.8,131.9,3.0,9.0,0.05,46.5,0.4491,26.85,Physics-constrained model (calibrated to species optima from literature),Modelled
+Botryococcus braunii,Bold's Basal,11.3,761,1381.1,173.9,3.0,7.3,0.05,24.7,0.2386,22.46,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chaetoceros muelleri,f/2 Medium,10.7,599,4319.1,111.5,1.0,8.1,0.05,41.1,0.397,25.76,Physics-constrained model (calibrated to species optima from literature),Modelled
+Monoraphidium braunii,Synthetic Medium,20.5,38,996.7,54.2,1.0,7.5,0.08,23.7,0.2289,22.26,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus sp.,BG-11,15.0,815,234.8,113.6,0.04,7.7,0.06,18.3,0.1768,21.18,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloris sp.,f/2 Medium,14.5,515,382.1,116.7,0.04,8.4,0.05,21.9,0.2115,21.9,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Bold's Basal,21.4,78,750.4,105.7,0.04,8.8,0.05,18.7,0.1806,21.26,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,BG-11,30.0,300,300.0,45.0,3.0,7.1,1.8,19.3,0.1864,21.38,de Jesus 2023 FBioe 10.3389/fbioe.2023.1149762,Real (measured)
+Nannochloropsis oculata,Walne Medium,20.0,150,150.0,20.0,0.04,8.0,0.6,30.8,0.2975,23.69,Converti 2009 CEP 10.1016/j.cep.2009.03.006,Real (measured)
+Nannochloropsis sp.,f/2 Medium,25.0,200,200.0,25.0,0.04,7.5,0.32,18.5,0.1787,21.22,Khatoon 2020 JOUC 10.1007/s11802-020-4302-y,Real (measured)
+Spirulina platensis,Zarrouk's Medium,35.0,200,2500.0,150.0,2.0,9.5,3.8,7.2,0.0695,18.95,BRT review 10.1016/j.biortech.2010.06.139,Real (measured)
+Chlorella sorokiniana,Modified BG-11,24.7,1045,34.3,165.8,2.0,5.4,0.05,27.9,0.2695,23.11,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella pyrenoidosa,Modified BG-11,21.6,485,266.6,34.2,5.0,6.2,0.34,20.8,0.2009,21.68,Physics-constrained model (calibrated to species optima from literature),Modelled
+Phaeodactylum tricornutum,f/2 Medium,14.7,495,1256.8,105.0,0.04,9.6,0.05,22.6,0.2183,22.04,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlamydomonas reinhardtii,Sewage Wastewater,25.0,100,110.0,18.0,0.04,7.6,0.95,12.4,0.1198,19.99,PMC10017629 wastewater coupling 2023,Real (measured)
+Chlorella vulgaris,TAP,25.0,120,150.0,30.0,0.04,6.8,0.95,12.4,0.1198,19.99,Klok 2014 BRT 10.1016/j.biortech.2013.11.051,Real (measured)
+Nannochloris sp.,f/2 Medium,13.5,298,1157.1,52.1,15.0,7.5,0.22,19.4,0.1874,21.4,Physics-constrained model (calibrated to species optima from literature),Modelled
+Monoraphidium braunii,Wastewater,12.5,116,1218.6,37.2,8.0,6.0,0.05,21.9,0.2115,21.9,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,BG-11,30.6,923,1939.8,196.9,15.0,8.3,0.74,17.3,0.1671,20.98,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ankistrodesmus falcatus,BG-11 N-stress,15.6,126,1549.7,42.2,1.0,4.9,0.05,44.4,0.4289,26.42,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus sp.,BG-11,28.5,674,1689.3,179.3,0.04,8.7,0.05,16.7,0.1613,20.86,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ettlia sp. YC001,BG-11,14.7,682,655.3,55.7,9.74,6.2,5.53,15.8,0.1526,20.68,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Synthetic Medium,12.0,213,1587.0,169.9,8.0,9.4,0.06,15.3,0.1478,20.58,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis sp.,f/2 Medium,18.8,424,1636.6,149.6,2.0,9.0,0.19,19.9,0.1922,21.5,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,Wastewater,35.7,1267,1442.8,192.7,3.0,5.2,0.14,20.7,0.1999,21.66,Physics-constrained model (calibrated to species optima from literature),Modelled
+Closterium sp.,Bold's Basal,14.8,118,1214.5,15.1,8.0,4.8,0.05,17.2,0.1661,20.96,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis subcordiformis,f/2 Medium,8.0,158,191.7,110.8,0.04,7.7,0.05,19.9,0.1922,21.5,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chaetoceros muelleri,f/2 Medium,20.0,135,5000.0,30.0,0.04,8.0,0.6,36.1,0.3487,24.76,Tan 2023 ICP 10.1016/j.indcrop.2023.116458,Real (measured)
+Closterium sp.,Bold's Basal,16.2,174,28.6,51.1,0.04,9.3,0.05,24.9,0.2405,22.5,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,Bold's Basal,12.7,621,33.2,185.7,1.0,5.1,0.05,28.8,0.2782,23.29,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ankistrodesmus falcatus,BG-11,17.7,311,1802.9,122.9,0.04,6.2,0.05,43.2,0.4173,26.18,Physics-constrained model (calibrated to species optima from literature),Modelled
+Isochrysis galbana,f/2 Medium,22.4,199,435.1,186.1,0.04,8.1,0.05,24.8,0.2395,22.48,Physics-constrained model (calibrated to species optima from literature),Modelled
+Dunaliella salina,Modified f/2,30.0,300,150.0,20.0,0.04,7.6,0.58,14.8,0.143,20.47,Frontiers Enrg Res 2022 10.3389/fenrg.2022.912904,Real (measured)
+Chlorella vulgaris,ORP Wastewater,29.0,900,130.0,16.0,0.04,7.9,1.6,18.1,0.1748,21.14,Supriyanto 2018 ORP 10.1016/j.egyr.2018.01.004,Real (measured)
+Chlorella vulgaris,BG-11,25.0,160,247.0,35.0,10.0,7.0,0.62,16.8,0.1623,20.88,PMC10674991 Light/CO2 2023,Real (measured)
+Botryococcus braunii,BG-11,9.6,1279,579.7,145.3,1.03,8.7,0.05,26.8,0.2589,22.89,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Synthetic Medium,16.4,538,1877.9,70.2,15.0,6.5,0.52,14.9,0.1439,20.49,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,f/2 Medium,30.0,855,358.4,9.8,2.34,6.5,0.09,32.0,0.3091,23.93,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ettlia sp. YC001,BG-11,14.9,997,288.9,24.1,1.0,4.9,0.16,16.5,0.1594,20.82,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Bold's Basal Medium,30.3,559,1764.9,128.4,0.04,8.6,0.08,15.5,0.1497,20.62,Physics-constrained model (calibrated to species optima from literature),Modelled
+Phaeodactylum tricornutum,f/2 Medium,21.4,258,1429.2,199.5,2.0,5.6,0.05,23.1,0.2231,22.14,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Bold's Basal,26.3,192,1650.2,63.4,2.19,5.4,0.09,17.4,0.1681,21.0,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,24.9,631,2817.0,184.0,0.04,7.3,0.05,8.6,0.0831,19.23,Physics-constrained model (calibrated to species optima from literature),Modelled
+Monoraphidium braunii,Synthetic Medium,20.2,100,867.0,30.4,5.0,7.6,0.24,24.3,0.2347,22.38,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,BG-11,25.0,100,670.0,80.0,5.0,7.0,1.65,18.5,0.1787,21.22,Montoya-Vallejo 2023 10.3389/fbioe.2023.1149762,Real (measured)
+Isochrysis galbana,f/2 Medium,27.5,544,1253.3,154.0,10.0,8.2,0.7,22.7,0.2193,22.06,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 Medium,39.9,404,497.2,73.3,2.0,8.3,0.47,24.9,0.2405,22.5,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,BG-11,35.0,400,300.0,45.0,5.0,7.0,1.7,19.8,0.1913,21.48,de Jesus 2023 FBioe 10.3389/fbioe.2023.1149762,Real (measured)
+Chlorella vulgaris,ORP Wastewater,28.0,850,120.0,15.0,0.04,7.8,1.45,16.4,0.1584,20.8,Supriyanto 2018 ORP 10.1016/j.egyr.2018.01.004,Real (measured)
+Ankistrodesmus falcatus,BG-11,14.5,386,3980.0,89.4,5.0,5.4,0.12,42.1,0.4066,25.96,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 N-stress,30.0,203,1483.0,131.3,2.0,5.8,0.1,22.9,0.2212,22.1,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlamydomonas reinhardtii,Sewage Wastewater,18.0,28,1021.9,102.4,0.04,6.2,0.05,13.0,0.1256,20.11,Physics-constrained model (calibrated to species optima from literature),Modelled
+Parachlorella kessleri,BG-11,12.6,453,111.4,119.9,14.76,8.5,0.06,23.5,0.227,22.22,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,BG-11,20.1,426,357.5,165.2,5.0,5.9,0.19,23.0,0.2222,22.12,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ankistrodesmus falcatus,BG-11,25.0,120,750.0,60.0,0.04,7.0,1.1,59.6,0.5757,29.48,Singh 2014 BRT 10.1016/j.biortech.2014.05.106,Real (measured)
+Scenedesmus quadricauda,BG-11,32.5,953,29.0,153.1,0.04,9.8,0.05,32.7,0.3159,24.07,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 N-stress,30.9,560,1243.7,114.3,3.0,8.0,0.92,21.1,0.2038,21.74,Physics-constrained model (calibrated to species optima from literature),Modelled
+Isochrysis galbana,f/2 Medium,29.4,143,985.2,130.1,6.32,5.4,0.05,24.7,0.2386,22.46,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chromochloris zofingiensis,BG-11 N-stress,20.7,579,721.9,88.9,2.0,5.3,0.15,46.6,0.4501,26.87,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella pyrenoidosa,BG-11,12.5,723,466.4,175.0,5.0,7.3,0.05,19.3,0.1864,21.38,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,BG-11,21.6,63,225.7,124.8,0.04,7.4,0.05,21.1,0.2038,21.74,Physics-constrained model (calibrated to species optima from literature),Modelled
+Parachlorella kessleri,BG-11,31.1,184,1630.7,150.3,0.04,9.1,0.05,21.2,0.2048,21.76,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,Bold's Basal,24.9,420,1499.6,68.0,3.0,5.8,0.14,19.5,0.1884,21.42,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlamydomonas reinhardtii,TAP,31.4,375,1106.7,43.9,8.0,4.7,0.05,14.6,0.141,20.43,Physics-constrained model (calibrated to species optima from literature),Modelled
+Phaeodactylum tricornutum,f/2 Medium,20.0,120,150.0,25.0,0.04,8.0,0.75,20.5,0.198,21.62,Frontiers Enrg Res 2022 10.3389/fenrg.2022.912904,Real (measured)
+Isochrysis galbana,f/2 Medium,24.8,263,2130.4,49.7,5.0,7.8,0.57,22.3,0.2154,21.98,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Synthetic Medium,34.1,140,1357.0,163.3,0.04,6.4,0.05,15.8,0.1526,20.68,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,Walne Medium,15.1,768,40.8,84.2,2.0,6.3,0.05,33.5,0.3236,24.23,Physics-constrained model (calibrated to species optima from literature),Modelled
+Botryococcus braunii,Bold's Basal,30.8,1245,1223.0,62.9,8.0,8.1,0.16,27.5,0.2656,23.03,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,Modified BG-11,19.1,492,1436.7,161.9,2.0,6.1,0.05,18.5,0.1787,21.22,Physics-constrained model (calibrated to species optima from literature),Modelled
+Parachlorella kessleri,BG-11,23.4,418,505.6,126.9,3.0,6.3,0.52,22.1,0.2135,21.94,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chaetoceros muelleri,f/2 Medium,30.7,319,2238.4,111.4,2.0,7.7,0.28,42.2,0.4076,25.98,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Wastewater,22.5,994,594.2,92.8,0.04,9.2,0.05,19.0,0.1835,21.32,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,32.0,200,2500.0,150.0,1.0,9.2,3.2,7.5,0.0724,19.01,BRT review 10.1016/j.biortech.2010.06.139,Real (measured)
+Scenedesmus quadricauda,Bold's Basal,13.9,65,707.7,142.9,3.0,7.1,0.11,21.6,0.2086,21.84,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis sp.,f/2 Medium,21.0,200,200.0,30.0,0.04,7.5,0.72,18.6,0.1797,21.24,Baweja 2025 RSOS 10.1098/rsos.241336,Real (measured)
+Chromochloris zofingiensis,BG-11 N-stress,12.5,78,1313.6,12.3,10.0,8.0,0.05,45.4,0.4385,26.63,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,BG-11,31.5,922,602.3,49.8,1.0,5.4,0.09,21.7,0.2096,21.86,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,Walne Medium,19.8,402,1497.9,32.4,10.0,7.1,0.06,24.8,0.2395,22.48,Physics-constrained model (calibrated to species optima from literature),Modelled
+Neochloris oleoabundans,BG-11 N-stress,25.0,150,41.0,35.0,2.0,7.0,0.48,68.5,0.6616,31.27,PMC10804497 biofuel review 2024,Real (measured)
+Isochrysis galbana,f/2 Medium,19.8,602,1774.6,159.6,0.04,5.5,0.05,22.7,0.2193,22.06,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,TAP,22.7,210,1004.6,32.2,3.0,6.5,0.39,17.8,0.1719,21.08,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Wastewater,28.5,352,1320.5,145.9,1.0,9.2,0.05,17.1,0.1652,20.94,Physics-constrained model (calibrated to species optima from literature),Modelled
+Monoraphidium braunii,Wastewater,13.0,48,283.1,99.7,0.04,5.4,0.05,24.5,0.2366,22.42,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,Walne Medium,21.3,435,830.5,81.1,15.0,8.3,0.06,22.4,0.2164,22.0,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,BG-11,25.0,300,247.0,35.0,0.04,7.0,1.52,18.3,0.1768,21.18,Converti 2009 CEP 10.1016/j.cep.2009.03.006,Real (measured)
+Chlorococcum sp.,BG-11 N-stress,23.1,130,1327.5,153.8,0.04,4.7,0.05,23.1,0.2231,22.14,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ankistrodesmus falcatus,BG-11 N-stress,25.0,303,4426.4,135.1,0.04,5.0,0.05,42.5,0.4105,26.04,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,20.5,506,3006.0,138.7,0.04,7.1,0.05,6.8,0.0657,18.87,Physics-constrained model (calibrated to species optima from literature),Modelled
+Phaeodactylum tricornutum,f/2 Medium,9.6,53,154.5,118.8,2.0,7.7,0.08,23.8,0.2299,22.28,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,Walne Medium,23.4,595,655.0,38.1,10.0,6.3,0.17,29.2,0.282,23.37,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,ORP Wastewater,31.6,804,815.7,163.2,1.0,4.7,0.05,19.5,0.1884,21.42,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 Medium,27.8,143,142.1,107.5,2.0,8.3,0.14,26.5,0.256,22.83,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorococcum sp.,BG-11 N-stress,13.5,233,1119.3,25.8,0.04,5.9,0.05,22.4,0.2164,22.0,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Synthetic Medium,15.5,729,1093.9,152.6,3.0,8.1,0.61,15.2,0.1468,20.56,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,f/2 Medium,29.9,543,57.6,26.9,0.04,10.4,0.05,35.6,0.3439,24.66,Physics-constrained model (calibrated to species optima from literature),Modelled
+Dunaliella salina,Modified f/2,20.2,46,1414.1,65.2,15.0,8.6,0.05,16.9,0.1632,20.9,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,ORP Wastewater,36.1,1101,964.4,67.0,1.0,8.8,0.11,20.5,0.198,21.62,Physics-constrained model (calibrated to species optima from literature),Modelled
+Botryococcus braunii,Bold's Basal,9.3,1497,473.2,110.6,15.0,8.5,0.05,29.2,0.282,23.37,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis sp.,f/2 Medium,24.9,137,789.9,178.8,1.0,6.5,0.14,21.4,0.2067,21.8,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloris sp.,f/2 Medium,26.2,77,436.1,86.3,10.0,9.3,0.05,20.9,0.2019,21.7,Physics-constrained model (calibrated to species optima from literature),Modelled
+Dunaliella salina,Modified f/2,25.7,654,206.9,89.3,3.0,9.3,0.09,18.6,0.1797,21.24,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,Walne Medium,18.1,389,58.7,86.5,0.04,10.3,0.05,33.3,0.3216,24.19,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,22.3,204,2990.9,89.5,0.04,8.6,0.05,7.3,0.0705,18.97,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 N-stress,25.0,200,25.0,25.0,5.0,7.5,0.28,35.2,0.34,24.58,Maltsev 2023 MCF 10.1186/s12934-023-02244-6,Real (measured)
+Nannochloropsis oculata,Walne Medium,28.0,444,701.3,2.9,11.81,9.9,0.05,32.4,0.313,24.01,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,BG-11,39.8,87,924.2,142.9,5.0,5.3,0.05,21.3,0.2057,21.78,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorococcum sp.,BG-11 N-stress,22.8,48,341.4,33.9,2.0,9.1,0.05,24.5,0.2366,22.42,Physics-constrained model (calibrated to species optima from literature),Modelled
+Isochrysis galbana,f/2 Medium,21.5,126,1129.5,75.2,0.04,8.9,0.05,22.2,0.2144,21.96,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Modified BG-11,31.3,538,1717.9,140.1,3.0,8.4,0.43,18.7,0.1806,21.26,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,23.2,176,4926.9,141.8,5.0,6.7,0.05,8.3,0.0802,19.17,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chaetoceros muelleri,f/2 Medium,15.1,624,2722.8,177.4,0.04,7.9,0.05,41.6,0.4018,25.86,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ankistrodesmus falcatus,BG-11,18.6,317,313.8,164.8,0.04,8.5,0.05,51.0,0.4926,27.75,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ettlia sp. YC001,BG-11,25.0,300,300.0,40.0,5.0,7.0,2.8,12.8,0.1236,20.07,Sung 2018 PMC6193934 10.1371/journal.pone.0203980,Real (measured)
+Scenedesmus quadricauda,Bold's Basal,16.0,50,786.7,41.6,2.0,5.8,0.05,20.5,0.198,21.62,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chromochloris zofingiensis,BG-11,12.6,138,477.5,7.9,10.0,8.7,0.05,46.2,0.4462,26.79,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,Bold's Basal,28.6,814,1424.9,22.4,5.0,6.1,0.23,22.0,0.2125,21.92,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,BG-11,36.0,696,1971.2,94.1,0.04,8.6,0.05,20.0,0.1932,21.52,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Synthetic Medium,15.6,450,1013.0,117.4,15.0,8.9,0.34,14.6,0.141,20.43,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,Bold's Basal,21.4,862,899.3,57.3,15.0,7.6,0.94,22.2,0.2144,21.96,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Wastewater,13.3,158,180.0,132.3,6.3,8.0,0.13,22.5,0.2173,22.02,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,ORP Wastewater,24.3,538,48.1,165.6,5.0,5.3,0.07,25.5,0.2463,22.63,Physics-constrained model (calibrated to species optima from literature),Modelled
+Neochloris oleoabundans,BG-11,8.5,127,1333.9,126.7,0.04,8.5,0.05,44.4,0.4289,26.42,Physics-constrained model (calibrated to species optima from literature),Modelled
+Phaeodactylum tricornutum,f/2 Medium,18.0,234,1631.9,159.0,15.0,10.5,0.05,21.8,0.2106,21.88,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,Modified BG-11,31.1,1397,1403.3,119.9,3.0,7.1,1.31,18.7,0.1806,21.26,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis sp.,f/2 Medium,24.4,328,1566.6,42.8,5.0,7.5,0.55,19.8,0.1913,21.48,Physics-constrained model (calibrated to species optima from literature),Modelled
+Dunaliella salina,Modified f/2,10.6,666,205.3,103.2,10.0,6.5,0.05,17.4,0.1681,21.0,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorococcum sp.,BG-11 N-stress,15.6,101,617.9,67.9,10.0,5.4,0.05,23.3,0.2251,22.18,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,Bold's Basal,29.5,390,1063.2,119.5,0.04,7.5,0.09,22.2,0.2144,21.96,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ettlia sp. YC001,BG-11,18.6,289,666.3,80.7,1.0,9.4,0.13,15.3,0.1478,20.58,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Bold's Basal,24.7,627,1715.9,93.6,10.0,7.8,1.18,17.9,0.1729,21.1,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,TAP,12.7,1015,1805.8,196.0,5.0,7.8,0.52,17.4,0.1681,21.0,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlamydomonas reinhardtii,Synthetic Medium,22.3,347,1145.3,11.7,15.0,7.4,0.41,12.6,0.1217,20.03,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Synthetic Medium,23.5,535,1476.3,16.2,3.0,7.4,0.64,13.9,0.1343,20.29,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,BG-11 N-stress,25.0,120,41.0,37.0,0.04,7.0,0.65,28.4,0.2743,23.21,Maltsev 2023 MCF N/P stress 10.1186/s12934-023-02244-6,Real (measured)
+Chlorella sorokiniana,BG-11,29.1,136,491.1,169.0,0.04,7.8,0.05,19.9,0.1922,21.5,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetradesmus obliquus,BG-11,15.6,81,77.7,89.7,8.0,8.8,0.05,24.4,0.2357,22.4,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Bold's Basal Medium,18.6,515,286.3,194.5,8.0,9.6,0.1,16.6,0.1603,20.84,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ettlia sp. YC001,BG-11,13.3,479,930.1,169.2,2.0,5.1,0.41,14.5,0.1401,20.41,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Industrial Wastewater,25.0,200,110.0,18.0,2.0,7.5,1.74,14.9,0.1439,20.49,PMC11550306 Wastewater 2024,Real (measured)
+Scenedesmus obliquus,ORP Wastewater,29.3,600,1048.6,39.3,2.0,8.6,0.47,16.0,0.1545,20.72,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,ORP Wastewater,27.0,750,125.0,16.0,0.04,7.7,1.28,15.3,0.1478,20.58,Supriyanto 2018 ORP 10.1016/j.egyr.2018.01.004,Real (measured)
+Chaetoceros muelleri,f/2 Medium,10.6,279,2532.3,87.6,1.66,9.7,0.05,42.2,0.4076,25.98,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,Wastewater,32.7,35,422.1,106.0,8.0,8.8,0.05,21.7,0.2096,21.86,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,20.5,216,979.2,7.3,0.04,10.2,0.05,9.0,0.0869,19.31,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlamydomonas reinhardtii,TAP,33.0,666,825.4,134.1,8.0,4.7,0.05,15.0,0.1449,20.52,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 Medium,21.3,192,1235.5,65.0,15.0,8.3,0.05,23.2,0.2241,22.16,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Wastewater,36.0,372,809.7,184.8,3.0,8.6,0.45,17.2,0.1661,20.96,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis subcordiformis,f/2 Medium,28.7,516,1255.4,72.0,15.0,8.9,0.31,21.3,0.2057,21.78,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,Walne Medium,30.2,129,1194.7,88.2,8.0,10.0,0.05,31.7,0.3062,23.87,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Wastewater,37.4,1057,571.4,167.7,1.0,9.6,0.05,20.3,0.1961,21.58,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Bold's Basal,25.3,458,1660.4,162.0,0.04,9.4,0.05,18.0,0.1739,21.12,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ankistrodesmus falcatus,BG-11 N-stress,21.8,400,2120.8,61.3,3.0,6.7,0.56,43.3,0.4182,26.2,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,Bold's Basal,30.3,457,1906.2,130.9,1.0,7.3,0.53,22.3,0.2154,21.98,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Bold's Basal Medium,31.6,226,724.8,36.9,1.0,6.2,0.17,17.2,0.1661,20.96,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Bold's Basal,28.3,852,1562.6,92.9,0.04,5.2,0.05,17.2,0.1661,20.96,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus sp.,BG-11,19.0,182,1797.3,52.2,5.0,4.9,0.05,14.3,0.1381,20.37,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,Modified BG-11,18.4,526,1081.4,69.0,1.0,8.4,0.05,20.7,0.1999,21.66,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus sp.,BG-11,15.3,48,562.3,40.2,2.0,6.4,0.05,15.0,0.1449,20.52,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus sp.,BG-11,20.0,180,300.0,45.0,2.0,7.0,1.05,13.2,0.1275,20.15,Singh 2015 RSER 10.1016/j.rser.2015.04.020,Real (measured)
+Tetraselmis subcordiformis,f/2 Medium,23.2,411,45.4,51.4,15.0,6.4,0.15,25.6,0.2473,22.65,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 N-stress,18.2,356,1192.7,100.4,3.0,9.0,0.05,24.0,0.2318,22.32,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,f/2 Medium,9.6,527,345.8,102.7,0.8,10.4,0.05,30.7,0.2965,23.67,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,BG-11,25.0,80,247.0,37.0,0.04,7.0,0.95,14.5,0.1401,20.41,MedCrave Kua 2017 medium screening,Real (measured)
+Chlamydomonas reinhardtii,Sewage Wastewater,12.6,237,591.5,109.6,0.04,9.3,0.05,13.2,0.1275,20.15,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Wastewater,29.2,47,1142.1,32.5,0.04,5.8,0.05,15.8,0.1526,20.68,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 Medium,29.2,504,1456.5,62.2,10.0,5.6,0.22,23.0,0.2222,22.12,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis sp.,f/2 Medium,26.2,869,843.2,163.2,0.04,9.6,0.05,21.4,0.2067,21.8,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetradesmus obliquus,BG-11,26.0,454,1881.5,86.7,5.0,5.7,0.34,17.1,0.1652,20.94,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,Wastewater,21.5,796,208.3,131.3,8.0,7.2,0.09,22.0,0.2125,21.92,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis subcordiformis,f/2 Medium,23.9,251,746.6,11.0,2.0,7.2,0.23,19.6,0.1893,21.44,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chromochloris zofingiensis,BG-11,19.9,654,489.3,109.3,15.0,8.2,0.58,46.8,0.452,26.91,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetradesmus obliquus,BG-11,26.4,357,1999.4,46.6,3.0,5.8,0.28,17.8,0.1719,21.08,Physics-constrained model (calibrated to species optima from literature),Modelled
+Phaeodactylum tricornutum,f/2 Medium,25.0,150,150.0,25.0,0.04,8.0,0.9,22.1,0.2135,21.94,Frontiers Enrg Res 2022 10.3389/fenrg.2022.912904,Real (measured)
+Chlorella sorokiniana,Wastewater,36.7,1296,1646.1,9.3,2.0,4.8,0.05,18.5,0.1787,21.22,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,ORP Wastewater,10.0,158,1280.3,157.0,2.0,9.3,0.05,12.9,0.1246,20.09,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ettlia sp. YC001,BG-11,29.5,261,731.6,170.0,0.04,8.6,0.21,18.2,0.1758,21.16,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chaetoceros muelleri,f/2 Medium,26.6,25,1444.6,150.8,15.0,8.6,0.05,43.1,0.4163,26.16,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ettlia sp. YC001,BG-11,9.8,1023,1582.2,170.3,8.0,8.3,0.66,14.4,0.1391,20.39,Physics-constrained model (calibrated to species optima from literature),Modelled
+Closterium sp.,Bold's Basal,14.0,31,1973.3,46.1,12.23,5.9,0.05,17.7,0.171,21.06,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis sp.,f/2 Medium,23.6,736,166.2,176.7,15.0,8.5,0.36,24.0,0.2318,22.32,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Modified BG-11,35.0,300,200.0,35.0,9.0,7.3,1.61,20.1,0.1941,21.54,Eze 2026 DIB 10.1016/j.dib.2026.111915,Real (measured)
+Parachlorella kessleri,BG-11,24.1,369,459.5,148.9,3.0,9.4,0.05,20.1,0.1941,21.54,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,Walne Medium,30.0,150,150.0,20.0,0.04,8.0,0.75,19.4,0.1874,21.4,Converti 2009 CEP 10.1016/j.cep.2009.03.006,Real (measured)
+Chlamydomonas reinhardtii,Synthetic Medium,28.5,566,226.1,122.5,0.04,6.5,0.07,17.9,0.1729,21.1,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chaetoceros muelleri,f/2 Medium,17.4,511,4576.1,160.5,10.0,7.9,0.45,40.0,0.3864,25.54,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,Wastewater,28.5,228,365.9,181.6,5.0,6.1,0.29,20.3,0.1961,21.58,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Bold's Basal,25.0,80,247.0,37.0,0.04,6.8,1.14,17.6,0.17,21.04,MedCrave Kua 2017 medium screening,Real (measured)
+Scenedesmus obliquus,Bold's Basal Medium,25.0,180,300.0,55.0,2.0,7.5,1.2,13.9,0.1343,20.29,PMC12844148 Wastewater 2024,Real (measured)
+Tetradesmus obliquus,BG-11 N-stress,15.2,683,1326.1,24.8,0.04,5.7,0.05,17.7,0.171,21.06,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloris sp.,f/2 Medium,13.9,397,1155.8,116.4,0.04,8.5,0.05,22.7,0.2193,22.06,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Modified BG-11,25.0,300,200.0,35.0,3.0,7.1,1.38,17.8,0.1719,21.08,Eze 2026 DIB 10.1016/j.dib.2026.111915,Real (measured)
+Tetraselmis subcordiformis,f/2 Medium,8.2,158,1349.9,13.9,0.04,7.9,0.05,20.2,0.1951,21.56,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis sp.,f/2 Medium,13.0,589,705.7,177.6,10.0,7.5,0.6,19.7,0.1903,21.46,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Wastewater,32.6,86,1531.2,62.9,0.04,8.4,0.05,16.2,0.1565,20.76,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ettlia sp. YC001,BG-11,23.8,1328,474.7,100.4,8.0,5.5,4.46,15.2,0.1468,20.56,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,Walne Medium,25.3,413,327.2,119.7,2.0,8.6,0.39,29.1,0.2811,23.35,Physics-constrained model (calibrated to species optima from literature),Modelled
+Dunaliella salina,Modified f/2,22.2,219,1029.4,110.7,3.0,6.3,0.16,16.7,0.1613,20.86,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,Walne Medium,25.9,625,266.9,58.5,10.0,6.9,0.38,30.9,0.2985,23.71,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetradesmus obliquus,BG-11,17.6,148,1195.7,121.3,5.0,8.8,0.06,18.0,0.1739,21.12,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 N-stress,28.6,951,517.4,30.0,10.18,5.2,0.08,22.3,0.2154,21.98,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,ORP Wastewater,30.0,980,118.0,15.0,0.04,8.0,1.55,17.5,0.169,21.02,Supriyanto 2018 ORP 10.1016/j.egyr.2018.01.004,Real (measured)
+Neochloris oleoabundans,BG-11 N-stress,31.0,674,1363.0,163.9,3.0,7.0,0.77,46.7,0.4511,26.89,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,f/2 Medium,12.4,528,1317.8,61.2,2.0,7.9,0.38,28.2,0.2724,23.17,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Wastewater,28.0,180,110.0,18.0,2.0,7.7,1.25,15.8,0.1526,20.68,PMC12844148 Wastewater 2024,Real (measured)
+Scenedesmus sp.,BG-11,21.6,241,1327.5,25.5,0.04,9.2,0.05,15.3,0.1478,20.58,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,Walne Medium,21.8,783,1291.6,41.0,0.04,6.4,0.05,22.4,0.2164,22.0,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 Medium,35.0,200,200.0,25.0,5.0,9.0,0.44,19.8,0.1913,21.48,Khatoon 2020 JOUC 10.1007/s11802-020-4302-y,Real (measured)
+Chlorella vulgaris,Modified BG-11,32.0,1115,1545.4,140.2,2.0,5.6,0.3,20.4,0.197,21.6,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,Walne Medium,41.0,88,211.3,126.9,3.0,8.3,0.14,26.0,0.2511,22.73,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetradesmus obliquus,BG-11 N-stress,22.6,631,552.9,133.7,10.57,6.5,0.91,17.6,0.17,21.04,Physics-constrained model (calibrated to species optima from literature),Modelled
+Botryococcus braunii,BG-11,16.0,1238,412.7,20.5,15.0,8.3,0.05,27.2,0.2627,22.97,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus sp.,BG-11,18.3,315,1070.1,154.8,2.0,7.6,0.55,15.8,0.1526,20.68,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,Modified BG-11,39.5,891,359.1,69.1,0.04,9.2,0.05,23.0,0.2222,22.12,Physics-constrained model (calibrated to species optima from literature),Modelled
+Phaeodactylum tricornutum,f/2 Medium,20.8,415,1657.1,96.3,3.0,6.8,0.25,21.4,0.2067,21.8,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,30.6,84,775.7,186.5,1.0,10.5,0.09,9.3,0.0898,19.37,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chaetoceros muelleri,f/2 Medium,29.9,404,2213.5,141.6,5.0,8.3,0.42,44.3,0.4279,26.4,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,Modified BG-11,37.6,379,648.4,50.0,3.0,8.0,0.44,21.9,0.2115,21.9,Physics-constrained model (calibrated to species optima from literature),Modelled
+Phaeodactylum tricornutum,f/2 Medium,24.8,220,1279.3,51.3,2.0,7.5,0.43,24.4,0.2357,22.4,Physics-constrained model (calibrated to species optima from literature),Modelled
+Phaeodactylum tricornutum,f/2 Medium,27.0,37,1466.0,155.1,5.0,6.4,0.06,24.4,0.2357,22.4,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis sp.,f/2 Medium,29.3,30,1115.2,103.4,0.04,7.1,0.05,20.7,0.1999,21.66,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis subcordiformis,f/2 Medium,31.1,113,258.1,31.0,5.0,8.1,0.13,24.3,0.2347,22.38,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis subcordiformis,f/2 Medium,24.5,410,314.2,50.3,5.0,5.2,0.05,19.2,0.1855,21.36,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetradesmus obliquus,BG-11,11.3,94,1899.4,93.7,5.0,5.9,0.08,16.6,0.1603,20.84,Physics-constrained model (calibrated to species optima from literature),Modelled
+Isochrysis galbana,f/2 Medium,23.7,392,1124.3,166.0,0.04,10.1,0.05,22.8,0.2202,22.08,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ettlia sp. YC001,BG-11,29.6,179,1150.7,32.8,0.04,9.1,0.05,17.9,0.1729,21.1,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlamydomonas reinhardtii,Synthetic Medium,25.0,100,247.0,35.0,0.04,7.4,0.78,10.8,0.1043,19.67,PMC10017629 wastewater coupling 2023,Real (measured)
+Ankistrodesmus falcatus,BG-11 N-stress,9.5,127,4542.2,178.2,2.0,6.6,0.13,43.3,0.4182,26.2,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,Modified BG-11,25.9,1343,1991.0,154.9,2.0,8.0,0.4,17.3,0.1671,20.98,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis subcordiformis,f/2 Medium,17.3,575,1936.0,13.4,2.0,8.5,0.19,17.1,0.1652,20.94,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,BG-11,23.8,440,858.7,123.0,2.0,6.7,0.23,18.6,0.1797,21.24,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Synthetic Medium,32.8,46,795.9,189.1,1.0,6.3,0.06,16.2,0.1565,20.76,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,BG-11,17.0,175,1726.2,2.2,1.0,6.3,0.05,19.2,0.1855,21.36,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,29.4,657,1290.4,99.3,0.04,7.1,0.05,9.7,0.0937,19.45,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus sp.,BG-11,23.6,634,888.1,32.9,8.0,7.0,0.82,16.2,0.1565,20.76,Physics-constrained model (calibrated to species optima from literature),Modelled
+Botryococcus braunii,Bold's Basal,31.2,280,1662.3,12.2,0.04,7.8,0.05,28.1,0.2714,23.15,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chromochloris zofingiensis,BG-11,13.8,794,560.8,130.3,0.04,7.0,0.09,46.8,0.452,26.91,Physics-constrained model (calibrated to species optima from literature),Modelled
+Dunaliella salina,Modified f/2,8.7,258,553.2,71.6,5.0,6.5,0.05,17.2,0.1661,20.96,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,TAP,36.2,160,1701.8,128.1,3.0,7.5,0.41,19.3,0.1864,21.38,Physics-constrained model (calibrated to species optima from literature),Modelled
+Phaeodactylum tricornutum,f/2 Medium,10.3,467,354.1,22.3,5.0,9.5,0.06,21.9,0.2115,21.9,Physics-constrained model (calibrated to species optima from literature),Modelled
+Phaeodactylum tricornutum,f/2 Medium,11.8,424,683.8,31.7,8.0,8.2,0.49,24.1,0.2328,22.34,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,Walne Medium,35.4,992,799.5,106.3,15.0,9.7,0.17,24.6,0.2376,22.44,Physics-constrained model (calibrated to species optima from literature),Modelled
+Closterium sp.,Bold's Basal,23.0,795,1644.7,63.3,15.0,6.9,0.46,17.3,0.1671,20.98,Physics-constrained model (calibrated to species optima from literature),Modelled
+Neochloris oleoabundans,BG-11 N-stress,27.7,318,1414.0,18.1,2.0,4.6,0.05,45.1,0.4356,26.57,Physics-constrained model (calibrated to species optima from literature),Modelled
+Parachlorella kessleri,BG-11,25.0,120,247.0,35.0,0.04,7.0,0.85,18.5,0.1787,21.22,PMC9655907 ARTP mutant 2022,Real (measured)
+Tetraselmis sp.,f/2 Medium,20.5,264,1479.6,49.3,0.04,7.6,0.05,17.9,0.1729,21.1,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chromochloris zofingiensis,BG-11 N-stress,11.1,506,472.4,146.6,14.25,8.9,0.05,47.8,0.4617,27.11,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ankistrodesmus falcatus,BG-11 N-stress,19.2,165,654.5,101.2,3.33,9.2,0.05,47.6,0.4598,27.07,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,30.0,150,2500.0,150.0,0.04,9.0,2.5,6.8,0.0657,18.87,BRT review 10.1016/j.biortech.2010.06.139,Real (measured)
+Chlorella vulgaris,BG-11,15.9,502,1707.5,48.3,15.0,6.1,0.49,18.2,0.1758,21.16,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlamydomonas reinhardtii,Synthetic Medium,24.0,289,87.3,21.8,0.04,4.6,0.05,18.2,0.1758,21.16,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetradesmus obliquus,BG-11,16.0,138,1313.6,29.0,2.0,5.5,0.06,15.2,0.1468,20.56,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,ORP Wastewater,31.4,866,901.5,55.9,2.0,6.9,1.01,18.2,0.1758,21.16,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Sewage Wastewater,25.0,100,110.0,18.0,0.04,7.6,0.72,13.8,0.1333,20.27,PMC10017629 wastewater coupling 2023,Real (measured)
+Chlorella vulgaris,Wastewater,20.5,881,1108.2,187.4,5.0,6.5,1.17,19.1,0.1845,21.34,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlamydomonas reinhardtii,Sewage Wastewater,30.0,449,1242.2,128.6,3.0,9.3,0.05,14.1,0.1362,20.33,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ettlia sp. YC001,BG-11,22.5,770,301.5,90.5,10.0,7.6,10.57,17.1,0.1652,20.94,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella pyrenoidosa,Modified BG-11,25.2,895,1463.6,157.0,2.0,9.0,0.08,17.1,0.1652,20.94,Physics-constrained model (calibrated to species optima from literature),Modelled
+Parachlorella kessleri,BG-11,8.2,207,639.9,8.2,0.04,7.6,0.05,20.1,0.1941,21.54,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,19.5,230,2828.8,10.5,0.04,10.2,0.05,7.2,0.0695,18.95,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,35.6,235,1030.3,91.8,0.04,10.5,0.05,7.2,0.0695,18.95,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ankistrodesmus falcatus,BG-11,10.4,196,4761.7,123.8,0.04,4.7,0.05,40.2,0.3883,25.58,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,BG-11,25.0,200,300.0,45.0,5.0,7.1,1.95,22.1,0.2135,21.94,de Jesus 2023 FBioe 10.3389/fbioe.2023.1149762,Real (measured)
+Ettlia sp. YC001,BG-11,19.4,498,577.1,28.9,5.0,7.1,7.27,16.0,0.1545,20.72,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 Medium,35.0,200,200.0,25.0,5.0,6.0,0.44,24.6,0.2376,22.44,Khatoon 2020 JOUC 10.1007/s11802-020-4302-y,Real (measured)
+Closterium sp.,Bold's Basal,27.6,959,1751.2,32.4,0.04,5.2,0.05,18.2,0.1758,21.16,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Bold's Basal,18.7,615,1750.6,170.5,3.0,5.8,0.39,19.3,0.1864,21.38,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,Walne Medium,19.6,133,931.3,21.3,12.79,9.1,0.05,23.2,0.2241,22.16,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Wastewater,29.0,397,1754.0,106.4,0.04,8.7,0.06,15.0,0.1449,20.52,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloris sp.,f/2 Medium,14.4,201,721.0,80.0,0.04,5.1,0.05,20.7,0.1999,21.66,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ankistrodesmus falcatus,BG-11,28.5,186,4030.9,19.2,3.0,8.8,0.05,43.1,0.4163,26.16,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus sp.,BG-11,25.4,100,1900.0,150.2,0.04,5.4,0.05,14.4,0.1391,20.39,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus sp.,BG-11,30.0,180,300.0,45.0,2.0,7.1,1.15,14.1,0.1362,20.33,Singh 2015 RSER 10.1016/j.rser.2015.04.020,Real (measured)
+Chlorella vulgaris,ORP Wastewater,22.9,244,264.2,96.2,5.0,6.8,0.6,20.9,0.2019,21.7,Physics-constrained model (calibrated to species optima from literature),Modelled
+Dunaliella salina,Modified f/2,26.1,710,1230.6,97.7,0.04,6.6,0.05,16.8,0.1623,20.88,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ettlia sp. YC001,BG-11,27.7,404,1212.3,83.2,0.04,9.1,0.08,17.0,0.1642,20.92,Physics-constrained model (calibrated to species optima from literature),Modelled
+Dunaliella salina,Modified f/2,8.7,608,112.0,186.8,14.06,7.7,0.05,20.4,0.197,21.6,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,Walne Medium,14.4,157,1163.5,80.5,1.0,10.3,0.05,27.2,0.2627,22.97,Physics-constrained model (calibrated to species optima from literature),Modelled
+Isochrysis galbana,f/2 Medium,21.2,228,2269.0,20.9,0.04,9.9,0.05,22.4,0.2164,22.0,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,ORP Wastewater,29.5,338,381.7,40.7,2.0,9.3,0.12,17.3,0.1671,20.98,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis sp.,f/2 Medium,20.3,381,1122.9,69.8,15.0,6.2,0.3,19.4,0.1874,21.4,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,TAP,31.0,339,731.6,64.3,10.0,5.3,0.14,20.5,0.198,21.62,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis subcordiformis,f/2 Medium,25.0,607,1080.6,187.1,3.0,5.4,0.09,17.0,0.1642,20.92,Physics-constrained model (calibrated to species optima from literature),Modelled
+Neochloris oleoabundans,BG-11,23.4,386,67.0,145.1,1.0,5.9,0.14,57.1,0.5515,28.98,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis subcordiformis,f/2 Medium,22.4,219,133.1,154.0,2.0,6.9,0.25,21.8,0.2106,21.88,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetradesmus obliquus,BG-11 N-stress,13.7,627,1290.0,80.7,0.04,4.5,0.05,16.6,0.1603,20.84,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,f/2 Medium,22.5,54,695.3,84.5,8.0,6.2,0.05,29.6,0.2859,23.45,Physics-constrained model (calibrated to species optima from literature),Modelled
+Phaeodactylum tricornutum,f/2 Medium,20.0,86,1793.7,32.9,1.0,6.6,0.05,24.1,0.2328,22.34,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus sp.,BG-11,24.0,753,200.3,56.6,15.0,6.9,0.76,18.2,0.1758,21.16,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chromochloris zofingiensis,BG-11,28.6,803,610.0,32.5,3.0,7.4,0.81,48.0,0.4636,27.15,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 Medium,25.0,200,200.0,25.0,5.0,7.5,0.38,22.3,0.2154,21.98,Khatoon 2020 JOUC 10.1007/s11802-020-4302-y,Real (measured)
+Chlorella vulgaris,Bold's Basal,17.0,1125,333.4,10.9,6.55,9.1,0.05,21.2,0.2048,21.76,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis sp.,f/2 Medium,22.8,475,778.8,162.8,0.04,9.5,0.05,21.3,0.2057,21.78,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis sp.,f/2 Medium,24.3,512,1726.5,59.6,0.04,8.6,0.05,20.2,0.1951,21.56,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,ORP Wastewater,30.7,347,1960.1,176.9,0.04,6.7,0.09,16.8,0.1623,20.88,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,Modified BG-11,31.8,1379,726.3,163.0,15.0,8.6,0.5,19.8,0.1913,21.48,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,Bold's Basal,17.4,362,1434.9,94.4,0.04,7.8,0.07,21.1,0.2038,21.74,Physics-constrained model (calibrated to species optima from literature),Modelled
+Dunaliella salina,Modified f/2,9.6,743,157.2,18.9,1.0,7.2,0.05,19.0,0.1835,21.32,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,BG-11,12.6,876,173.6,187.3,8.0,9.4,0.05,21.3,0.2057,21.78,Physics-constrained model (calibrated to species optima from literature),Modelled
+Closterium sp.,Bold's Basal,22.6,223,1128.5,176.6,8.0,6.9,0.27,17.3,0.1671,20.98,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ettlia sp. YC001,BG-11,23.6,1351,223.0,125.3,2.0,6.2,5.84,16.9,0.1632,20.9,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chaetoceros muelleri,f/2 Medium,19.7,650,3115.3,103.8,5.0,10.0,0.05,41.6,0.4018,25.86,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis sp.,f/2 Medium,27.2,80,1151.8,94.5,5.0,7.0,0.15,19.4,0.1874,21.4,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis subcordiformis,f/2 Medium,15.8,109,832.6,26.5,10.0,7.8,0.15,17.5,0.169,21.02,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chromochloris zofingiensis,BG-11,26.3,37,549.9,94.7,10.0,9.1,0.05,47.8,0.4617,27.11,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Modified BG-11,31.5,958,1892.3,52.2,0.04,7.7,0.16,18.5,0.1787,21.22,Physics-constrained model (calibrated to species optima from literature),Modelled
+Neochloris oleoabundans,BG-11,16.0,80,501.1,13.6,15.0,6.2,0.08,46.6,0.4501,26.87,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,BG-11,15.0,514,186.0,85.9,13.95,7.4,0.56,23.6,0.228,22.24,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,26.3,649,3824.8,90.6,0.04,9.0,0.11,7.5,0.0724,19.01,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Wastewater,26.6,755,1866.2,42.4,8.0,6.5,0.73,15.3,0.1478,20.58,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,BG-11,18.6,299,40.2,91.7,9.53,6.3,0.05,27.7,0.2676,23.07,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Wastewater,31.5,118,975.9,99.2,0.04,7.0,0.06,19.8,0.1913,21.48,Physics-constrained model (calibrated to species optima from literature),Modelled
+Isochrysis galbana,f/2 Medium,19.1,415,20.8,181.7,8.0,6.3,0.05,32.1,0.3101,23.95,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chromochloris zofingiensis,BG-11 N-stress,25.0,200,41.0,35.0,5.0,7.0,0.92,58.3,0.5631,29.22,PMC10804497 biofuel review 2024,Real (measured)
+Chlorella vulgaris,TAP,23.1,512,469.0,74.8,10.0,6.5,1.01,18.3,0.1768,21.18,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,Walne Medium,19.3,733,1465.1,52.3,0.04,5.3,0.05,23.0,0.2222,22.12,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlamydomonas reinhardtii,Sewage Wastewater,25.0,557,1251.4,108.4,5.0,5.0,0.12,13.1,0.1265,20.13,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,28.4,52,422.4,79.3,0.04,10.5,0.05,8.6,0.0831,19.23,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,BG-11,17.1,1198,1240.1,34.2,11.6,5.9,0.05,18.7,0.1806,21.26,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloris sp.,f/2 Medium,25.0,100,247.0,25.0,0.04,7.5,0.65,20.6,0.199,21.64,Frontiers Enrg Res 2022 10.3389/fenrg.2022.912904,Real (measured)
+Scenedesmus sp.,BG-11,32.1,699,122.1,87.0,3.0,7.0,0.48,23.0,0.2222,22.12,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Wastewater,15.2,265,504.6,54.0,3.0,10.0,0.05,16.7,0.1613,20.86,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,f/2 Medium,10.5,445,781.7,82.3,1.0,7.9,0.24,29.6,0.2859,23.45,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,ORP Wastewater,10.6,832,808.7,167.2,8.0,5.9,0.12,15.9,0.1536,20.7,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlamydomonas reinhardtii,TAP,30.0,208,111.4,188.2,3.0,7.2,0.36,19.9,0.1922,21.5,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,TAP,14.7,1112,1164.2,70.7,1.0,4.7,0.05,16.8,0.1623,20.88,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,Modified BG-11,37.9,500,1707.4,61.2,2.0,6.0,0.34,19.7,0.1903,21.46,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella pyrenoidosa,Modified BG-11,25.7,754,550.0,12.0,5.0,6.0,0.3,19.1,0.1845,21.34,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis subcordiformis,f/2 Medium,27.9,650,447.8,91.3,6.96,9.1,0.2,20.7,0.1999,21.66,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 N-stress,38.4,976,1309.9,32.4,0.04,8.3,0.12,23.8,0.2299,22.28,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis sp.,f/2 Medium,27.1,559,1044.3,86.9,5.0,9.1,0.18,20.2,0.1951,21.56,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chromochloris zofingiensis,BG-11,12.2,639,394.5,179.5,0.43,6.1,0.08,47.3,0.4569,27.01,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Bold's Basal,17.2,1125,485.7,26.3,15.0,5.5,0.18,20.3,0.1961,21.58,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlamydomonas reinhardtii,TAP,12.3,403,739.3,126.0,0.04,5.3,0.05,13.6,0.1314,20.23,Physics-constrained model (calibrated to species optima from literature),Modelled
+Neochloris oleoabundans,BG-11,11.1,257,1397.8,45.9,0.04,4.6,0.05,43.5,0.4202,26.24,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ankistrodesmus falcatus,BG-11 N-stress,20.1,342,2577.1,170.5,15.0,8.6,0.19,42.9,0.4144,26.12,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 Medium,27.6,149,192.9,152.5,15.0,5.8,0.1,25.8,0.2492,22.69,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloris sp.,f/2 Medium,20.1,463,187.4,20.1,8.0,6.5,0.2,23.3,0.2251,22.18,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ankistrodesmus falcatus,BG-11 N-stress,17.3,101,1606.3,192.9,5.0,5.9,0.18,44.7,0.4318,26.48,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloris sp.,f/2 Medium,28.3,91,552.3,9.7,3.0,9.9,0.05,21.6,0.2086,21.84,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ankistrodesmus falcatus,BG-11 N-stress,16.2,309,1394.4,12.6,0.04,6.6,0.05,43.0,0.4153,26.14,Physics-constrained model (calibrated to species optima from literature),Modelled
+Botryococcus braunii,BG-11,9.1,1339,1974.4,10.9,15.0,4.9,0.05,26.9,0.2598,22.91,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetradesmus obliquus,BG-11,19.5,229,1393.3,117.7,1.0,5.6,0.12,16.5,0.1594,20.82,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chaetoceros muelleri,f/2 Medium,21.2,244,1615.1,3.4,1.0,6.4,0.05,43.0,0.4153,26.14,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,Walne Medium,10.3,830,610.5,129.8,0.04,8.8,0.05,31.1,0.3004,23.75,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis subcordiformis,f/2 Medium,15.9,668,1879.4,132.9,0.04,7.3,0.06,18.0,0.1739,21.12,Physics-constrained model (calibrated to species optima from literature),Modelled
+Dunaliella salina,Modified f/2,23.4,850,612.7,170.1,0.04,6.1,0.05,17.7,0.171,21.06,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Modified BG-11,32.1,477,580.2,137.1,8.0,5.6,0.33,20.5,0.198,21.62,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 Medium,27.9,937,1281.7,52.9,0.04,7.4,0.15,22.7,0.2193,22.06,Physics-constrained model (calibrated to species optima from literature),Modelled
+Phaeodactylum tricornutum,f/2 Medium,24.8,127,88.9,82.1,15.0,9.0,0.11,28.7,0.2772,23.27,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus sp.,BG-11,30.3,763,77.7,112.1,0.04,7.9,0.05,23.5,0.227,22.22,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 Medium,23.0,914,1386.2,135.2,0.04,8.8,0.05,22.7,0.2193,22.06,Physics-constrained model (calibrated to species optima from literature),Modelled
+Neochloris oleoabundans,BG-11 N-stress,24.0,461,1557.8,84.2,0.04,5.5,0.05,42.8,0.4134,26.1,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,ORP Wastewater,24.6,268,1110.8,125.1,0.04,5.7,0.05,14.0,0.1352,20.31,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlamydomonas reinhardtii,TAP,28.3,627,1306.9,26.6,1.0,9.1,0.05,12.8,0.1236,20.07,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chromochloris zofingiensis,BG-11 N-stress,8.1,457,613.4,37.7,0.04,5.6,0.05,46.5,0.4491,26.85,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus sp.,BG-11,10.5,870,1541.3,20.5,10.0,4.9,0.05,14.5,0.1401,20.41,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,Walne Medium,16.1,344,146.5,28.2,3.0,7.4,0.27,31.5,0.3043,23.83,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,f/2 Medium,16.2,586,1009.4,153.8,2.0,7.6,0.5,29.4,0.284,23.41,Physics-constrained model (calibrated to species optima from literature),Modelled
+Botryococcus braunii,Bold's Basal,25.1,1662,1514.2,95.4,0.04,6.7,0.06,25.0,0.2415,22.52,Physics-constrained model (calibrated to species optima from literature),Modelled
+Botryococcus braunii,Bold's Basal,17.8,654,1045.3,93.5,15.0,6.0,0.14,26.3,0.254,22.79,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 N-stress,32.5,405,1383.2,52.4,0.04,7.3,0.15,22.3,0.2154,21.98,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetradesmus obliquus,BG-11,21.3,451,1844.3,102.5,2.0,5.9,0.35,16.6,0.1603,20.84,Physics-constrained model (calibrated to species optima from literature),Modelled
+Monoraphidium braunii,Synthetic Medium,15.2,235,1918.3,189.0,0.04,8.0,0.05,21.7,0.2096,21.86,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,21.0,246,1659.6,91.9,0.04,7.7,0.05,7.4,0.0715,18.99,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,BG-11,8.4,463,1686.1,66.1,0.04,7.3,0.05,20.6,0.199,21.64,Physics-constrained model (calibrated to species optima from literature),Modelled
+Dunaliella salina,Modified f/2,9.8,838,787.5,181.6,10.0,7.6,0.05,16.7,0.1613,20.86,Physics-constrained model (calibrated to species optima from literature),Modelled
+Parachlorella kessleri,BG-11,29.4,314,826.9,94.1,10.0,9.1,0.05,21.6,0.2086,21.84,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ettlia sp. YC001,BG-11,31.9,678,687.9,76.0,15.0,4.9,0.84,17.2,0.1661,20.96,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chromochloris zofingiensis,BG-11 N-stress,18.3,375,657.7,193.9,15.0,5.3,0.18,46.5,0.4491,26.85,Physics-constrained model (calibrated to species optima from literature),Modelled
+Phaeodactylum tricornutum,f/2 Medium,26.8,377,1991.4,60.4,0.04,8.6,0.05,25.1,0.2424,22.55,Physics-constrained model (calibrated to species optima from literature),Modelled
+Neochloris oleoabundans,BG-11 N-stress,27.5,212,1366.7,129.3,1.0,7.5,0.37,44.5,0.4298,26.44,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ankistrodesmus falcatus,BG-11,25.0,120,247.0,37.0,0.04,7.0,1.45,38.5,0.3719,25.24,Frontiers Enrg Res 2022 10.3389/fenrg.2022.912904,Real (measured)
+Nannochloropsis sp.,Walne Medium,27.7,779,57.1,105.1,3.0,5.8,0.1,29.0,0.2801,23.33,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,BG-11,11.5,747,89.5,177.1,2.0,5.1,0.05,23.7,0.2289,22.26,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chaetoceros muelleri,f/2 Medium,27.1,605,2417.1,167.8,3.0,9.3,0.12,42.2,0.4076,25.98,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella pyrenoidosa,BG-11,25.0,150,247.0,35.0,3.0,7.0,1.3,16.8,0.1623,20.88,PMC10478748 Bioeng review 2023,Real (measured)
+Ankistrodesmus falcatus,BG-11 N-stress,22.6,366,308.8,32.3,0.04,7.9,0.05,50.8,0.4907,27.71,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,BG-11,37.6,1387,287.5,90.8,0.04,5.0,0.05,22.4,0.2164,22.0,Physics-constrained model (calibrated to species optima from literature),Modelled
+Phaeodactylum tricornutum,f/2 Medium,10.6,55,989.0,18.0,10.87,9.7,0.05,23.1,0.2231,22.14,Physics-constrained model (calibrated to species optima from literature),Modelled
+Isochrysis galbana,f/2 Medium,19.4,667,1996.5,177.6,2.0,6.1,0.06,23.0,0.2222,22.12,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ettlia sp. YC001,BG-11,16.5,1194,495.6,123.2,1.0,7.3,4.78,16.3,0.1574,20.78,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chromochloris zofingiensis,BG-11,25.0,200,247.0,35.0,5.0,7.0,1.85,45.0,0.4347,26.55,PMC10804497 biofuel review 2024,Real (measured)
+Neochloris oleoabundans,BG-11,11.3,151,291.0,162.4,0.04,6.4,0.05,48.1,0.4646,27.17,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,Walne Medium,36.3,835,1232.7,67.8,2.0,8.7,0.44,23.0,0.2222,22.12,Physics-constrained model (calibrated to species optima from literature),Modelled
+Monoraphidium braunii,Synthetic Medium,10.0,183,479.2,4.8,1.46,7.3,0.05,22.7,0.2193,22.06,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,34.4,665,462.3,66.6,15.0,8.7,0.62,7.6,0.0734,19.03,Physics-constrained model (calibrated to species optima from literature),Modelled
+Neochloris oleoabundans,BG-11,21.8,62,864.6,79.3,0.04,7.9,0.05,46.8,0.452,26.91,Physics-constrained model (calibrated to species optima from literature),Modelled
+Phaeodactylum tricornutum,f/2 Medium,26.2,418,1708.0,80.6,0.04,8.3,0.07,27.1,0.2618,22.95,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella pyrenoidosa,Modified BG-11,17.1,1034,1825.6,44.0,8.0,8.2,0.18,17.6,0.17,21.04,Physics-constrained model (calibrated to species optima from literature),Modelled
+Botryococcus braunii,Bold's Basal,30.5,1036,1330.4,88.6,8.0,9.5,0.05,28.6,0.2762,23.25,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlamydomonas reinhardtii,Sewage Wastewater,13.1,274,1888.6,102.0,3.55,6.2,0.33,11.8,0.114,19.87,Physics-constrained model (calibrated to species optima from literature),Modelled
+Isochrysis galbana,f/2 Medium,26.8,638,1829.2,126.1,6.43,7.9,0.82,23.4,0.226,22.2,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella pyrenoidosa,BG-11,23.5,309,1421.9,170.6,10.0,7.2,0.74,18.8,0.1816,21.28,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Modified BG-11,30.0,300,200.0,35.0,6.0,7.2,2.05,24.2,0.2337,22.36,Eze 2026 DIB 10.1016/j.dib.2026.111915,Real (measured)
+Chromochloris zofingiensis,BG-11,12.0,337,109.3,149.0,5.0,8.4,0.07,52.9,0.511,28.13,Physics-constrained model (calibrated to species optima from literature),Modelled
+Neochloris oleoabundans,BG-11,26.4,336,690.9,53.8,0.04,9.1,0.05,46.1,0.4453,26.77,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ettlia sp. YC001,BG-11,25.0,730,300.0,40.0,8.0,7.0,28.0,15.0,0.1449,20.52,Sung 2018 PMC6193934 10.1371/journal.pone.0203980,Real (measured)
+Monoraphidium braunii,Wastewater,13.7,208,148.3,45.6,0.04,10.0,0.05,26.4,0.255,22.81,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlamydomonas reinhardtii,Sewage Wastewater,8.7,198,930.1,8.1,8.0,7.9,0.06,14.3,0.1381,20.37,Physics-constrained model (calibrated to species optima from literature),Modelled
+Dunaliella salina,Modified f/2,18.8,30,1373.5,92.1,0.04,6.4,0.05,18.9,0.1826,21.3,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 N-replete,25.0,200,200.0,25.0,5.0,7.5,0.52,22.1,0.2135,21.94,Maltsev 2023 MCF 10.1186/s12934-023-02244-6,Real (measured)
+Chlorella sorokiniana,BG-11,30.0,200,670.0,80.0,15.0,7.1,2.1,21.0,0.2028,21.72,Montoya-Vallejo 2023 10.3389/fbioe.2023.1149762,Real (measured)
+Chlorella pyrenoidosa,Modified BG-11,30.8,394,1780.6,119.6,0.04,5.2,0.05,17.0,0.1642,20.92,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,BG-11,26.4,1121,1609.7,94.5,0.04,4.7,0.05,18.7,0.1806,21.26,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,BG-11,35.0,400,300.0,45.0,5.0,7.0,2.1,21.4,0.2067,21.8,de Jesus 2023 FBioe 10.3389/fbioe.2023.1149762,Real (measured)
+Chlorococcum sp.,BG-11 N-stress,23.9,374,808.7,48.5,0.04,8.1,0.05,22.6,0.2183,22.04,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 Medium,33.5,912,307.8,87.6,0.04,9.8,0.05,22.5,0.2173,22.02,Physics-constrained model (calibrated to species optima from literature),Modelled
+Dunaliella salina,Modified f/2,16.6,244,287.2,153.2,1.0,9.8,0.05,16.7,0.1613,20.86,Physics-constrained model (calibrated to species optima from literature),Modelled
+Botryococcus braunii,Bold's Basal,12.1,1342,995.1,184.0,2.0,4.8,0.05,26.8,0.2589,22.89,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Synthetic Medium,16.5,132,880.4,62.0,2.0,6.2,0.12,15.3,0.1478,20.58,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis sp.,f/2 Medium,10.3,213,1682.2,80.5,2.0,6.2,0.11,17.9,0.1729,21.1,Physics-constrained model (calibrated to species optima from literature),Modelled
+Botryococcus braunii,Bold's Basal,9.6,1217,1265.1,152.0,15.0,7.4,0.05,25.7,0.2482,22.67,Physics-constrained model (calibrated to species optima from literature),Modelled
+Isochrysis galbana,f/2 Medium,14.0,41,1727.6,88.1,3.0,6.5,0.05,22.3,0.2154,21.98,Physics-constrained model (calibrated to species optima from literature),Modelled
+Dunaliella salina,Modified f/2,29.0,174,159.7,101.6,15.0,9.0,0.07,20.8,0.2009,21.68,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,TAP,13.2,45,115.5,36.6,0.84,7.6,0.05,23.9,0.2309,22.3,Physics-constrained model (calibrated to species optima from literature),Modelled
+Botryococcus braunii,Bold's Basal,25.0,1500,300.0,55.0,5.0,7.0,0.45,19.5,0.1884,21.42,Baweja 2025 RSOS 10.1098/rsos.241336,Real (measured)
+Spirulina platensis,Zarrouk's Medium,23.3,504,3284.0,91.4,0.04,10.1,0.05,7.8,0.0753,19.07,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,ORP Wastewater,34.6,632,635.3,154.9,9.94,6.5,1.23,21.0,0.2028,21.72,Physics-constrained model (calibrated to species optima from literature),Modelled
+Parachlorella kessleri,BG-11,13.4,276,1778.1,158.9,2.0,5.9,0.16,19.8,0.1913,21.48,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chaetoceros muelleri,f/2 Medium,8.4,342,826.1,141.6,0.04,6.6,0.05,43.9,0.424,26.32,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlamydomonas reinhardtii,TAP,25.0,120,150.0,30.0,0.04,6.8,0.8,11.5,0.1111,19.81,Baweja 2025 RSOS 10.1098/rsos.241336,Real (measured)
+Chlorella vulgaris,BG-11,25.0,245,247.0,35.0,10.0,7.0,0.78,19.5,0.1884,21.42,PMC10674991 Light/CO2 2023,Real (measured)
+Chlorella vulgaris,Wastewater,11.0,26,108.1,122.0,10.0,5.8,0.05,21.5,0.2077,21.82,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 Medium,30.0,200,200.0,25.0,5.0,7.5,0.55,23.1,0.2231,22.14,Khatoon 2020 JOUC 10.1007/s11802-020-4302-y,Real (measured)
+Dunaliella salina,Modified f/2,17.0,726,870.6,99.3,5.0,9.8,0.05,16.7,0.1613,20.86,Physics-constrained model (calibrated to species optima from literature),Modelled
+Botryococcus braunii,Bold's Basal,14.2,1726,421.9,41.2,2.0,7.4,0.1,27.9,0.2695,23.11,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,BG-11,35.4,766,572.7,179.6,5.0,9.1,0.11,19.6,0.1893,21.44,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella pyrenoidosa,BG-11,36.0,162,1792.8,21.9,2.0,8.7,0.05,19.0,0.1835,21.32,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Synthetic Medium,25.0,100,247.0,35.0,0.04,7.4,0.88,16.5,0.1594,20.82,PMC10017629 wastewater coupling 2023,Real (measured)
+Scenedesmus quadricauda,Bold's Basal,27.3,852,947.6,102.9,4.71,8.6,0.41,22.7,0.2193,22.06,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Bold's Basal Medium,20.8,390,509.8,155.6,5.0,9.2,0.22,14.9,0.1439,20.49,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 Medium,22.2,117,314.4,68.8,0.04,9.3,0.05,23.7,0.2289,22.26,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,31.0,234,710.7,54.9,0.04,8.6,0.05,9.3,0.0898,19.37,Physics-constrained model (calibrated to species optima from literature),Modelled
+Closterium sp.,Bold's Basal,11.1,932,1013.9,164.3,8.0,8.1,0.05,17.9,0.1729,21.1,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorococcum sp.,BG-11 N-stress,11.7,180,798.9,50.7,5.0,8.7,0.05,23.5,0.227,22.22,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,Walne Medium,15.1,792,72.4,149.9,12.57,5.8,0.05,34.1,0.3294,24.35,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella pyrenoidosa,BG-11,24.9,1190,13.0,5.3,5.0,5.1,0.05,29.2,0.282,23.37,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,Modified BG-11,34.1,916,1881.5,31.4,8.0,7.0,1.42,20.3,0.1961,21.58,Physics-constrained model (calibrated to species optima from literature),Modelled
+Neochloris oleoabundans,BG-11,23.3,344,1243.7,83.9,1.0,6.7,0.51,44.9,0.4337,26.52,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlamydomonas reinhardtii,Sewage Wastewater,19.1,101,198.0,48.1,1.0,5.6,0.06,15.5,0.1497,20.62,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,21.6,246,355.8,13.3,0.04,8.3,0.05,9.0,0.0869,19.31,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorococcum sp.,BG-11,25.0,120,247.0,35.0,0.04,7.0,0.88,22.4,0.2164,22.0,Sci Rep 2024 10.1038/s41598-024-58864-4,Real (measured)
+Monoraphidium braunii,Synthetic Medium,15.5,282,1092.0,132.8,3.0,9.3,0.05,24.7,0.2386,22.46,Physics-constrained model (calibrated to species optima from literature),Modelled
+Botryococcus braunii,Bold's Basal,29.9,1200,1949.3,84.5,8.08,5.0,0.05,28.6,0.2762,23.25,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,BG-11,30.0,300,247.0,35.0,0.04,7.2,1.87,22.5,0.2173,22.02,Converti 2009 CEP 10.1016/j.cep.2009.03.006,Real (measured)
+Ettlia sp. YC001,BG-11,22.2,625,1622.7,69.4,8.0,5.3,2.35,13.9,0.1343,20.29,Physics-constrained model (calibrated to species optima from literature),Modelled
+Neochloris oleoabundans,BG-11 N-stress,30.4,505,929.9,194.9,5.0,8.7,0.13,47.0,0.454,26.95,Physics-constrained model (calibrated to species optima from literature),Modelled
+Dunaliella salina,Modified f/2,25.0,200,150.0,20.0,0.04,7.4,0.5,15.5,0.1497,20.62,Frontiers Enrg Res 2022 10.3389/fenrg.2022.912904,Real (measured)
+Chlorella pyrenoidosa,Modified BG-11,25.3,501,192.7,178.2,0.04,5.2,0.05,20.2,0.1951,21.56,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella pyrenoidosa,BG-11,30.0,200,247.0,35.0,5.0,7.0,1.6,19.2,0.1855,21.36,PMC10478748 Bioeng review 2023,Real (measured)
+Chaetoceros muelleri,f/2 Medium,10.0,617,4621.8,164.7,8.0,8.3,0.05,38.0,0.367,25.14,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis sp.,f/2 Medium,13.8,413,367.1,106.9,0.04,5.5,0.05,20.9,0.2019,21.7,Physics-constrained model (calibrated to species optima from literature),Modelled
+Closterium sp.,Bold's Basal,14.3,552,644.3,58.1,10.0,5.4,0.05,17.9,0.1729,21.1,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus sp.,BG-11,32.4,95,232.5,186.1,14.21,6.3,0.15,18.9,0.1826,21.3,Physics-constrained model (calibrated to species optima from literature),Modelled
+Isochrysis galbana,f/2 Medium,26.0,200,288.0,25.0,0.04,7.8,1.02,18.4,0.1777,21.2,Maltsev 2023 MCF 10.1186/s12934-023-02244-6,Real (measured)
+Scenedesmus quadricauda,BG-11,14.4,626,1853.7,53.1,8.0,5.7,0.11,19.1,0.1845,21.34,Physics-constrained model (calibrated to species optima from literature),Modelled
+Neochloris oleoabundans,BG-11 N-stress,29.6,392,1640.7,103.2,3.0,8.8,0.1,45.2,0.4366,26.59,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,BG-11,10.7,787,1885.1,6.4,0.04,6.3,0.05,20.8,0.2009,21.68,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,f/2 Medium,38.9,161,1319.2,17.2,1.0,5.3,0.05,24.5,0.2366,22.42,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Industrial Wastewater,28.0,200,110.0,18.0,2.0,7.6,1.85,16.1,0.1555,20.74,PMC11550306 Wastewater 2024,Real (measured)
+Scenedesmus obliquus,Bold's Basal Medium,21.9,165,1594.2,53.6,10.0,9.2,0.14,13.6,0.1314,20.23,Physics-constrained model (calibrated to species optima from literature),Modelled
+Phaeodactylum tricornutum,f/2 Medium,10.2,307,375.1,136.4,0.04,10.4,0.05,24.0,0.2318,22.32,Physics-constrained model (calibrated to species optima from literature),Modelled
+Botryococcus braunii,BG-11,16.4,39,1192.4,198.3,2.0,5.1,0.05,26.7,0.2579,22.87,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,Walne Medium,19.3,410,582.6,59.1,0.04,5.9,0.05,29.2,0.282,23.37,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,Modified BG-11,29.1,180,148.8,168.7,3.0,6.0,0.13,23.6,0.228,22.24,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorococcum sp.,BG-11,20.4,266,1203.7,88.6,0.04,8.7,0.05,22.9,0.2212,22.1,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ettlia sp. YC001,BG-11,15.9,1289,439.5,23.1,14.6,8.8,1.13,16.1,0.1555,20.74,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,35.6,493,699.3,162.0,1.0,7.7,0.16,9.2,0.0889,19.35,Physics-constrained model (calibrated to species optima from literature),Modelled
+Parachlorella kessleri,BG-11,14.8,464,951.4,69.6,8.0,8.1,0.22,19.5,0.1884,21.42,Physics-constrained model (calibrated to species optima from literature),Modelled
+Dunaliella salina,Modified f/2,32.8,48,1112.0,185.5,2.0,5.6,0.05,18.3,0.1768,21.18,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,Walne Medium,37.2,548,1229.7,16.7,5.0,6.3,0.47,23.6,0.228,22.24,Physics-constrained model (calibrated to species optima from literature),Modelled
+Monoraphidium braunii,Synthetic Medium,13.1,303,1075.5,166.1,0.04,9.5,0.05,22.8,0.2202,22.08,Physics-constrained model (calibrated to species optima from literature),Modelled
+Neochloris oleoabundans,BG-11 N-stress,11.5,471,1034.1,105.6,13.87,7.6,0.21,43.5,0.4202,26.24,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,Wastewater,36.4,1102,879.6,96.3,5.0,8.7,0.3,19.4,0.1874,21.4,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,32.7,520,3560.0,172.0,1.0,9.7,1.22,6.6,0.0638,18.83,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chaetoceros muelleri,f/2 Medium,28.7,249,3397.0,151.8,0.04,9.6,0.05,41.0,0.396,25.74,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus sp.,BG-11,25.0,180,300.0,45.0,2.0,7.0,1.25,15.4,0.1487,20.6,Singh 2015 RSER 10.1016/j.rser.2015.04.020,Real (measured)
+Spirulina platensis,Zarrouk's Medium,18.4,548,1885.8,62.1,0.04,10.5,0.05,7.4,0.0715,18.99,Physics-constrained model (calibrated to species optima from literature),Modelled
+Neochloris oleoabundans,BG-11 N-stress,10.9,699,827.6,2.4,3.0,4.6,0.05,44.3,0.4279,26.4,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis sp.,Walne Medium,18.4,370,400.9,98.5,0.04,9.4,0.05,23.3,0.2251,22.18,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,BG-11 P-stress,25.0,120,247.0,3.0,0.04,7.0,0.72,24.1,0.2328,22.34,Maltsev 2023 MCF N/P stress 10.1186/s12934-023-02244-6,Real (measured)
+Scenedesmus obliquus,ORP Wastewater,14.8,97,244.6,16.1,0.04,5.7,0.05,16.7,0.1613,20.86,Physics-constrained model (calibrated to species optima from literature),Modelled
+Closterium sp.,Bold's Basal,22.5,129,163.6,150.7,1.0,8.3,0.05,22.2,0.2144,21.96,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Modified BG-11,22.6,945,1274.6,115.3,0.04,9.3,0.05,17.6,0.17,21.04,Physics-constrained model (calibrated to species optima from literature),Modelled
+Nannochloropsis oculata,f/2 Medium,20.6,555,306.8,128.5,0.04,9.8,0.05,30.6,0.2956,23.65,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella sorokiniana,Wastewater,40.5,162,87.0,50.7,1.02,7.2,0.1,28.1,0.2714,23.15,Physics-constrained model (calibrated to species optima from literature),Modelled
+Botryococcus braunii,BG-11,11.5,1529,1206.2,28.5,10.42,5.7,0.05,26.3,0.254,22.79,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis sp.,f/2 Medium,18.6,189,1722.5,165.0,1.0,9.8,0.05,20.0,0.1932,21.52,Physics-constrained model (calibrated to species optima from literature),Modelled
+Dunaliella salina,Modified f/2,8.9,290,145.9,39.8,0.04,7.1,0.05,18.1,0.1748,21.14,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,Bold's Basal,8.8,622,750.6,131.0,2.0,6.1,0.1,21.7,0.2096,21.86,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus obliquus,Synthetic Medium,31.8,41,444.2,143.0,10.0,7.5,0.17,17.5,0.169,21.02,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetradesmus obliquus,BG-11,32.1,658,1365.2,11.8,1.0,5.5,0.07,20.5,0.198,21.62,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,ORP Wastewater,18.5,937,1943.8,101.1,0.04,4.7,0.05,18.7,0.1806,21.26,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetradesmus obliquus,BG-11 N-stress,22.0,331,967.7,185.0,3.0,9.4,0.05,16.9,0.1632,20.9,Physics-constrained model (calibrated to species optima from literature),Modelled
+Ettlia sp. YC001,BG-11,25.0,500,300.0,40.0,7.0,7.0,4.2,14.2,0.1372,20.35,Sung 2018 PMC6193934 10.1371/journal.pone.0203980,Real (measured)
+Scenedesmus sp.,BG-11,11.4,663,1017.8,145.2,13.05,7.8,0.5,14.4,0.1391,20.39,Physics-constrained model (calibrated to species optima from literature),Modelled
+Neochloris oleoabundans,BG-11,25.0,150,247.0,35.0,2.0,7.0,0.9,43.2,0.4173,26.18,PMC10804497 biofuel review 2024,Real (measured)
+Closterium sp.,Bold's Basal,32.0,116,1659.3,119.6,5.0,8.2,0.05,20.7,0.1999,21.66,Physics-constrained model (calibrated to species optima from literature),Modelled
+Scenedesmus quadricauda,Bold's Basal,9.9,807,1786.6,4.2,0.04,9.4,0.05,20.3,0.1961,21.58,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella pyrenoidosa,Modified BG-11,26.1,134,1692.4,124.1,8.15,5.3,0.07,17.7,0.171,21.06,Physics-constrained model (calibrated to species optima from literature),Modelled
+Spirulina platensis,Zarrouk's Medium,21.5,518,2245.0,5.2,15.0,10.5,0.05,9.5,0.0918,19.41,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,Modified BG-11,27.9,120,834.5,10.2,0.04,5.3,0.05,19.5,0.1884,21.42,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chromochloris zofingiensis,BG-11,19.6,738,145.3,5.6,0.41,7.1,0.08,51.9,0.5013,27.93,Physics-constrained model (calibrated to species optima from literature),Modelled
+Chlorella vulgaris,BG-11 N-replete,25.0,120,247.0,37.0,0.04,7.0,1.45,14.2,0.1372,20.35,Maltsev 2023 MCF N/P stress 10.1186/s12934-023-02244-6,Real (measured)
+Closterium sp.,Bold's Basal,25.0,3000,300.0,55.0,9.0,7.0,0.48,17.4,0.1681,21.0,Baweja 2025 RSOS 10.1098/rsos.241336,Real (measured)
+Chlorococcum sp.,BG-11 N-stress,25.0,120,88.0,35.0,0.04,7.0,0.55,32.6,0.3149,24.05,Sci Rep 2024 10.1038/s41598-024-58864-4,Real (measured)
+Nannochloropsis oculata,Walne Medium,20.6,803,853.3,64.8,0.04,5.8,0.05,27.3,0.2637,22.99,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetraselmis subcordiformis,f/2 Medium,9.5,529,242.5,50.5,5.0,5.9,0.05,20.1,0.1941,21.54,Physics-constrained model (calibrated to species optima from literature),Modelled
+Tetradesmus obliquus,BG-11 N-stress,25.0,200,10.0,35.0,2.0,7.0,0.62,32.1,0.3101,23.95,OCL review 2021 10.1051/ocl/2021048,Real (measured)

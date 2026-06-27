@@ -1,6 +1,6 @@
 ## 🌐 Live Demo
 
-https://your-app-name.streamlit.app
+https://algaoptix-ibpl.streamlit.app
 
 # 🌱 AlgaOptix™
 
